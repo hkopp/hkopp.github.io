@@ -7,9 +7,9 @@ tagline: no offense to the rest of the universe
 ##Intro
 
 Hi all,
-This is some kind of website. Up to now it is all messy, since I have
-no content, except some standard docs which where already here when I
-installed this stuff. Feel free to look around.
+This is some kind of website. Up to now it is all messy and it will
+probably remain like this.  
+Feel free to look around.
 
 
 
