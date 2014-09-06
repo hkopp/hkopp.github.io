@@ -28,7 +28,11 @@ Bayes' theorem is about relating conditional probabilities. Let
 $$P(A)$$ be the probability of the event $$A$$ and $$P(A|B)$$ the
 probability of the event $$A$$ given the event $$B$$.  
 Then Bayes' says that
-$$P(A|B)=\frac{P(B|A)P(A)}{P(B)}$$
+$$
+\begin{align*}
+P(A|B)=\frac{P(B|A)P(A)}{P(B)}
+\end{align*}
+$$
 
 So we just need to define the events accordingly, plug in the values
 and whoosh, we are finished.
@@ -37,7 +41,11 @@ $$5H$$ the event, that we got five heads.
 The question is now, what is $$P(HH|5H)$$?
 
 According to Bayes:
-$$P(HH|5H)=\frac{P(5H|HH)P(HH)}{P(5H)}$$
+$$
+\begin{align*}
+P(HH|5H)=\frac{P(5H|HH)P(HH)}{P(5H)}
+\end{align*}
+$$
 
 Obviously $$P(5H|HH)=1$$, since we can only get heads from the coin
 with two heads.
@@ -45,8 +53,17 @@ $$P(HH)=1/5$$, since we have four fair coins and one head-head-coin.
 
 So it remains to compute $$P(5H)$$. This is $$4/5\cdot1/2^5$$ for
 the fair coins and $$1/5\cdot 1$$ for the rigged coin. Summing up
-yields $$P(5H)=1/2^5\cdot 4/5+1/5\cdot 1=0.025+0.2=0.225$$
+yields
+$$
+\begin{align*}
+P(5H)=1/2^5\cdot 4/5+1/5\cdot 1=0.025+0.2=0.225
+\end{align*}
+$$
 
 All in all
-$$P(HH|5H)=\frac{P(5H|HH)P(HH)}{P(5H)}\approx 0.889$$
+$$
+\begin{align*}
+P(HH|5H)=\frac{P(5H|HH)P(HH)}{P(5H)}\approx 0.889
+\end{align*}
+$$
 
