@@ -78,7 +78,7 @@ $$Var(X)=\mathbb{E}((X-\mathbb{E}(X))^2)$$, and the positive
 squareroot $$\sigma=\sqrt{Var(X)}$$ is called the standard deviation.
 Note that you need the squares inside the computation of the variance,
 since
-$$Var(X)=\mathbb{E}(X-\mathbb{E}(X))=0$$.
+$$\mathbb{E}(X-\mathbb{E}(X))=0$$.
 
 You might find it useful to know that:
 
