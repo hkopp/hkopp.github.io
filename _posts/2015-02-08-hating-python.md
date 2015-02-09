@@ -4,7 +4,7 @@ category :
 tags : [python,ubuntu,rant]
 ---
 ##Broken Pip
-So I managed upgrading Ubuntu from 10.04 to 14.04 and somehow even fixed some issues with tex by typing obscure commands in my shell.
+So I managed upgrading Ubuntu from 12.04 to 14.04 and somehow even fixed some issues with tex by typing obscure commands in my shell.
 Now I wanted to install [zipline](https://github.com/quantopian/zipline) for which I need [conda](http://continuum.io/downloads) for which I need pip, the python package manager.  
 Well, seems the upgrade to 14.04 broke pip.
 Any command line switches I have tried lead to ``ImportError: cannot import name IncompleteRead``.
