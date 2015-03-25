@@ -79,7 +79,7 @@ Brownian increments are independent.
 $$
 \begin{align*}
 \sum_{i=1}^N Y_i=NX_1+(N-1)X_2+...+X_N=\sum_{i=1}^N
-(N-i+1)X_i\sim\mathcal{N}(0,\frac{1}{N}\sum_{i=1}^N (N-i+1)^2)
+(N-i+1)X_i\sim\mathcal{N}\left(0,\frac{1}{N}\sum_{i=1}^N (N-i+1)^2\right)
 \end{align*}$$  
 Where the last part follows, since the $$X_i$$ are independent.
 Moreover $$\frac{1}{N}\sum_{i=1}^N (N-i+1)^2=\frac{(N+1)(2N+1)}{6}$$
