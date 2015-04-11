@@ -85,7 +85,7 @@ You might find it useful to know that:
 - $$Var(X+a)=Var(X)$$ for a random variable $$X$$ and a parameter
   $$a$$.
 - $$Var(aX)=a^2 Var(X)$$ with $$X$$, $$a$$ as above.
-- $$Var(X+Y)=Var(Y)+Var(Y)$$ for _uncorrelated_ random variables $$X$$
+- $$Var(X+Y)=Var(X)+Var(Y)$$ for _uncorrelated_ random variables $$X$$
   and $$Y$$. (see below for a explanation of uncorrelatedness)
 
 #Covariance
