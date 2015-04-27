@@ -30,7 +30,7 @@ Potenzmenge von $$E$$.
 Sei $$E$$ eine Menge, ein Hüllensystem $$H\subseteq P(E)$$ heißt
 _Hüllensystem_, falls gilt:
 
-1. $$E\subseteq H$$ und
+1. $$E\in H$$ und
 2. $$N\subseteq H$$, $$N\neq\emptyset\Rightarrow\bigcap N\in H$$
 
 
