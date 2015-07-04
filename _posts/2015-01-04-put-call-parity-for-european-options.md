@@ -1,7 +1,7 @@
 ---
 layout: post
 category : lesson
-tags : [trading, elementary, math]
+tags : [trading, elementary, math, derivative pricing]
 ---
 {% include math %}
 
