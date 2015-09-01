@@ -23,9 +23,9 @@ So we will take something and weight it. Suppose it weighs $$x_1$$.
 Then we take another thing and weigh it. Suppose it weighs $$x_2$$.
 And so on. Then, we will compute
 \begin{equation}
-\frac{1}{n}\sum\limits_{n=0}^k x_n
+\frac{1}{n}\sum\limits_{k=0}^n x_k
 \end{equation}
-This should be our expected weight for large enough $$k$$.
+This should be our expected weight for large enough $$n$$.
 
 In fact, I let you in on a little secret. The weight of the stuff on
 my desk has a gaussian distribution with mean $$0$$. Yes, I have some
