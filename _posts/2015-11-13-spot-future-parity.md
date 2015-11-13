@@ -53,7 +53,7 @@ positive amount of stocks exists.
 Why do you want to trade futures in the first place and not only
 stocks? Well, futures provide leverage, meaning you only need some
 margin to buy futures. Also futures can be on an index and so the risk
-is diversified. AS a third point, stocks can only be shorted intraday,
+is diversified. As a third point, stocks can only be shorted intraday,
 whereas futures can be shorted on longer timeframes.
 
 ##Spot-Future Parity
