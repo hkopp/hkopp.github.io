@@ -1,6 +1,6 @@
 ---
 layout: post
-category : brainteaser
+category : Brainteaser
 tags : [math, set theory]
 ---
 {% include math %}

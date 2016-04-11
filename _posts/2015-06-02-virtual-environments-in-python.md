@@ -1,6 +1,6 @@
 ---
 layout: post
-category :
+category : Computer Trick
 tags : [python,rant]
 ---
 In one of my last posts I installed python packages with pip and the `--user`

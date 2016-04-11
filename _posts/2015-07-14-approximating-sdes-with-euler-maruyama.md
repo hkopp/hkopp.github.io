@@ -1,6 +1,6 @@
 ---
 layout: post
-category :
+category : Lesson
 tags : [math, stochastic, numerical analysis]
 ---
 {% include math %}

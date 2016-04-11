@@ -1,6 +1,6 @@
 ---
 layout: post
-category : lesson
+category : Lesson
 tags : [trading, elementary, math, derivative pricing]
 ---
 {% include math %}

@@ -1,6 +1,6 @@
 ---
 layout: post
-category :
+category : Computer Trick
 tags : [python,ubuntu,rant]
 ---
 ##Broken Pip

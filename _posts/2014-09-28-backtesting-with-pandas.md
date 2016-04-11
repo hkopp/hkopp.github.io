@@ -1,6 +1,6 @@
 ---
 layout: post
-category :
+category : Messing around
 tags : [trading, python]
 ---
 {% include math %}

@@ -1,6 +1,6 @@
 ---
 layout: post
-category : lesson
+category : Lesson
 tags : [derivative pricing, python, stochastic, math, not that easy]
 ---
 {% include math %}
