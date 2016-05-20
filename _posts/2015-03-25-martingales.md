@@ -5,7 +5,7 @@ tags : [stochastic, not that easy]
 ---
 {% include math %}
 
-#Introduction
+# Introduction
 
 Suppose you play a game. We model the outcome of the game with the
 random variable $$X$$ where the probability of winning or losing is
@@ -31,7 +31,7 @@ In this example, the family of random variables $$Y_i$$ is called a
 simple random walk.
 This motivates the following more general definition.
 
-##Definition
+## Definition
 A family of random variables $$Y_0$$, $$Y_1$$, ... is called a
 _discrete_ _martingale_ if
 $$\mathbb{E}(Y_i)<\infty$$ for all $$i$$
@@ -40,7 +40,7 @@ $$\mathbb{E}(Y_{n+1}|Y_0,\dots,Y_n)=Y_n$$.
 
 Note that the first assumption basically says that the expected value does exist.
 
-##Towards continuity
+## Towards continuity
 So what is a continuous martingale?
 Let us try to generalize our random walk. Let $$Y_i$$ be as before a
 discrete random walk. Now define 
@@ -57,14 +57,14 @@ distributed with mean $$0$$ and variance $$\lambda-\mu$$, the
 differences between any two increments of Brownian motion are
 independent and $$B_0=0$$.
 
-##Definition
+## Definition
 Let $$Y_i$$, $$i\geq 0$$ be a family of random variables,
 $$\mathcal{F}_t=\{Y_i,\,0\leq i\leq t\}$$ a _filtration_.
 Then $$Y_i$$, $$i\geq 0$$ is called a _martingale_ if
 $$\mathbb{E}(Y_i)<\infty$$ for every $$i\leq 0$$
 and furthermore $$\mathbb{E}(Y_i|\mathcal{F}_t)=Y_t$$ for every $$i>t$$.
 
-##Integrals
+## Integrals
 Let us integrate this Brownian motion stuff. I mean, integrate as in
 Riemann integration. You know, we just take a discrete integral of the
 random walk and then do this limit stuff as explained above and then

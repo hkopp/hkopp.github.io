@@ -5,14 +5,14 @@ tags : [derivative pricing]
 ---
 {% include math %}
 
-##Introduction
+## Introduction
 In some of the last posts, we talked about how to price different
 derivatives. But we had no unifying theme. In this post I am going to
 describe the three general categories of how to price derivatives.
 Remember, derivatives are assets whose value is dependent on the value
 of another asset, such as an option or a future.
 
-##Hedging
+## Hedging
 When hedging, we build a risk neutral portfolio. That
 means we buy other assets, such that the risks cancel.  
 Suppose we play the following game: I have a coin and if it shows
@@ -29,7 +29,7 @@ So both games together are worth 1$. But since each game is worth the
 same, one game is worth half a dollar.    
 That is how hedging works.
 
-##Risk-neutral valuation
+## Risk-neutral valuation
 In risk-neutral valuation you disregard the risks and only look at the
 expected value.  
 For example in our coin-flip above, one game has a return expectation of
@@ -52,7 +52,7 @@ But then, why does it work? There is a thing called the fundamental
 theorem of asset pricing, which roughly says that in an arbitrage-free
 market this works.
 
-##Replication
+## Replication
 Replication works by composing the derivative by "smaller" assets
 which are easier to price. Let us take as example a forward contract
 that I will next year sell 1000$ for euros at the exchange rate next

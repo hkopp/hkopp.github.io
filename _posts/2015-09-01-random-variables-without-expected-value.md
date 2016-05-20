@@ -5,7 +5,7 @@ tags : [stochastic, math]
 ---
 {% include math %}
 
-##Introduction
+## Introduction
 In some of the last posts I wrote that some formula should give us the
 mean of a random variable "if it exists".
 In this post I am going to introduce an example, where an intuitive
@@ -13,7 +13,7 @@ approach of computing the expected value of a random variable does not
 work. You can also read this post as some statistics, if you
 substitute every ocurrence of "expected value" by "mean".
 
-##Gaussian Distribution
+## Gaussian Distribution
 Suppose we want to compute the average weight of stuff on my desk.
 How would you do that?
 We will take samples and weight them. The average of the weight of the
@@ -50,7 +50,7 @@ end its influence fades as we weight more other stuff.
 So the approach works. At least this time.
 You can see that the expected value approaches $$0$$.
 
-##Cauchy Distribution
+## Cauchy Distribution
 The stuff on the table on my colleague is more interesting.
 Let us suppose that if we take a sample from his table this is akin to
 taking two normally distributed variables and dividing them.
@@ -89,7 +89,7 @@ good book. This is in my opinion the easiest distribution without
 expected value.
 This characteristic is also known as fat tail.
 
-##Outro
+## Outro
 Why is this important after all?
 In mathematical finance one often assumes that the prices of
 securities follow a brownian motion. This may work when pricing

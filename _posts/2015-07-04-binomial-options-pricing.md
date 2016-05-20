@@ -5,7 +5,7 @@ tags : [derivative pricing, python, stochastic, math, not that easy]
 ---
 {% include math %}
 
-##Introduction
+## Introduction
 In this post, I am going to explain how one can price options via
 binomial trees.
 As you perhaps know, a (european) _call_ _option_ $$C$$ grants you the
@@ -22,7 +22,7 @@ Well, that means that we can restrict ourselves in the following to
 the pricing of call options, since with the put-call-parity, the price
 of put options follows trivially.
 
-##Binomial trees
+## Binomial trees
 The Cox-Ross-Rubinstein model, or more simply, the binomial options
 pricing model assumes that we can model the price of the underlying
 $$S$$ with a binomial tree.
@@ -60,7 +60,7 @@ easier. Then we can have an even bigger tree.
 
 and so on. I think you can imagine the principle behind the tree.
 
-##Options pricing
+## Options pricing
 Now, what does this have to do with options pricing? Well, each of the
 paths in the tree correnspond to a possible development of the
 underlying. And we know that we can model the payoff at expiry time

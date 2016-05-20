@@ -5,10 +5,10 @@ tags : [beginner, math, trading, stochastic]
 ---
 {% include math %}
 
-##Introduction
+## Introduction
 In this post I am going to explain how finite financial markets are modelled in math.
 
-##Notation
+## Notation
 Throughout the remainder of this post, let $$\Omega$$ be a finite probability space with measure $$\mu$$.
 We also have a filtration $$\mathcal{F}=\{\mathcal{F}_t\}_{t=0,...,T}$$, where $$T\in\mathbb{N}$$ is fixed.
 That means that the $$\mathcal{F}_t$$ are $$\sigma$$-algebras on $$\Omega$$, where $$\mathcal{F}_t\subset \mathcal{F}_{t+1}$$.
@@ -16,7 +16,7 @@ Alternatively the partition induced by the $$\sigma$$-algebras on $$\Omega$$ get
 Intuitively this means that more information is available as the time $$t$$ increases.
 We furthermore let $$\mathcal{F}_0=\{\emptyset,\Omega\}$$, i.e., at the beginning we have no information, and $$\mathcal{F}_T=\mathcal{P}(\Omega)$$ the powerset of $$\Omega$$.
 
-##Markets
+## Markets
 In this setting a finite financial market is a $$\mathbb{R}^{d+1}$$-valued $$\mathcal{F}$$-adapted stochastic process $$S=\{S(t)\}_{t=0,...,T}=\{(S_0(t),S_1(t),...,S_d(t))\}_{t=0,...,T}$$ such that $$S_0(0)=1$$ and $$S_0(t)>1$$ for $$t=1,...,T$$.  
 What do all those complicated words mean?
 
@@ -25,7 +25,7 @@ What do all those complicated words mean?
 
 That special stuff about $$S_0$$ is because we want to have a point of reference if we have portfolios where we hold a linear combination of the $$S_i$$ and want to compare them.
 
-##Strats
+## Strats
 We now have modelled a market with different assets $$S_i$$.
 Now we want to model some trading strategies.
 

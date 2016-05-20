@@ -4,11 +4,11 @@ category : lesson
 tags : [trading]
 ---
 
-##Introduction
+## Introduction
 My goal for this article is to explain prediction markets and what can
 be done with them.
 
-##Example
+## Example
 Suppose we want to know if Ron Paul will become the next president.
 The traditional way to gain this knowledge would be to conduct surveys.
 Since this is boring i want to explain another approach.    
@@ -28,7 +28,7 @@ you can buy some contracts and make money if you were correct. If the
 price then settles at 0.3 dollars, we can interpret this as the
 probability of Ron Paul becoming president.
 
-##Theory
+## Theory
 Of course this not only works with presidency, but with any binary
 event that eventually "expires". For example you could bet on the
 weather tomorrow. By issuing multiple contracts, we can also bet on
@@ -40,7 +40,7 @@ selling such a contract, it becomes public in the price of the
 contract. So the money gained is simply the price which was included
 in that released information.
 
-##Problems
+## Problems
 Why aren't we all using prediction markets?
 One problem is that often we have a lack of liquidity. Then the spread
 becomes too large to make accurate predictions. For example, what does
