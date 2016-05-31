@@ -16,6 +16,9 @@ I was mainly busy with the "neverending crypto challenge" and in this
 post I am going to document what I have done there.
 Many thanks to Uni Tulsa and to the Ulm Security Sparrows.
 
+This post, together with the writeups of my comrades can also be found
+[here](https://uss.informatik.uni-ulm.de/?p=429).
+
 Level1
 ------
 The first hint that was given was to connect to port 24069 at the ip
