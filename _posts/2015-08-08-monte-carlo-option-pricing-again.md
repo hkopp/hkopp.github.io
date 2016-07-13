@@ -5,7 +5,7 @@ tags : [math, stochastic, numerical analysis, python, derivative pricing]
 ---
 {% include math %}
 
-##Introduction
+## Introduction
 In this post I am going to explain option pricing via
 [Euler-Maruyama]({% post_url 2015-07-14-approximating-sdes-with-euler-maruyama %}).
 As discussed [before]({% post_url 2015-01-04-put-call-parity-for-european-options %})
@@ -36,7 +36,7 @@ We can now simulate some paths of the underlying on the time interval
 up to expiry via Euler-Maruyama and compute the expected payoff as the
 mean, if it exists.
 
-##Coding
+## Coding
 To be more precise we want to approximate the SDE on the interval
 $$[0,T]$$. The strike price is denoted with $$E$$.
 If we discretize the SDE $$dS(t)=\mu S(t)dt + \sigma S(t) dB(t)$$ we
@@ -82,7 +82,7 @@ N=np.maximum(0,N-E) #payoff for call option
 print(N.mean())
 {% endhighlight %}
 
-##Outlook
+## Outlook
 If you are clever or if you can use google, then you know, that the
 price of european options can also be computed explicitly. Yes, that
 is right, but that was not the point of my post. The point of my post

@@ -5,7 +5,7 @@ tags : [programming, J, elementary]
 ---
 {% include math %}
 
-##Introduction
+## Introduction
 In what follows, I will explain a little bit about J.
 J is the decessor of APL.
 APL is the brainchild of Ken Iverson and feels more like mathematical notation instead of a programming language.
@@ -17,7 +17,7 @@ For code blocks, I will use the notation of my jconsole:
       input
     output
 
-##Arithmetic
+## Arithmetic
 Addition, subtraction, multiplication, and division work the obvious way:
 
       2+3
@@ -58,7 +58,7 @@ This could be confusing at first, but I think it is actually easier than to reme
 
 Variables are assigned with `=:` so for example `x =: 100` sets x to 100.
 
-##Terminology
+## Terminology
 Unfortunately J uses some pretty strange terminology.
 For example with monad, they mean a monadic function.
 This really has nothing to do with monads like in Haskell or category theory.
@@ -93,7 +93,7 @@ Another example:
 They also use the term 'verb' for what I have up to now called an operator.
 An operator, that operates on verbs, i.e., a higher-order function, is called an 'adverb'.
 
-##Working with Arrays
+## Working with Arrays
 As seen above, all operators work for arrays out of the box.
 There is a special operator for building arrays.
 In modern languages this would be called `range()` or something similar.
@@ -135,7 +135,7 @@ For example if you want to compare two arrays and choose the smaller entries:
       1 2 3 4 <. 4 3 2 1
     1 2 2 1
 
-##Booleans
+## Booleans
 I introduced booleans implicitly somewhere above.
 They are really straightforward if you have ever writte a program.
 '0' is false, '1' is true.
@@ -159,7 +159,7 @@ The only stumbling block I have encountered is when I want to compare two arrays
       2 3 4 -: 2 3 4
     1
 
-##Solving the first project Euler exercise
+## Solving the first project Euler exercise
 If you read this, you are probably familiar with project Euler.
 If not, google it.
 The assignment is to compute the sum of all multiples of 3 or 5 below 1000.

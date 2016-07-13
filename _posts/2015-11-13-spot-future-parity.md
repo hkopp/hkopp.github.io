@@ -5,7 +5,7 @@ tags : [trading, derivative pricing]
 ---
 {% include math %}
 
-##Introduction
+## Introduction
 In this post I am going to explain futures and talk about the spot
 future parity which can be used to find the fair price of a future.
 If you want to, you can first read about the
@@ -56,7 +56,7 @@ margin to buy futures. Also futures can be on an index and so the risk
 is diversified. As a third point, stocks can only be shorted intraday,
 whereas futures can be shorted on longer timeframes.
 
-##Spot-Future Parity
+## Spot-Future Parity
 As you probably already know from my article about options, there is a
 put-call parity which establishes a relationship between the price of
 a put option and a call option.

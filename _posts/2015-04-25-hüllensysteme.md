@@ -5,7 +5,7 @@ tags : [math, set theory]
 ---
 {% include math %}
 
-##Einführung
+## Einführung
 Vor einer Weile hat jemand einen Ausdruck aus einem Mathebuch zu einem
 Treffen meiner lokalen Hackergruppe gebracht. Es ging um
 Hüllensysteme; tiefste Mengentheorie, von der ich noch nie gehört
@@ -14,7 +14,7 @@ Aus welchen Buch es genau war, wollte er nicht sagen.
 Ich habe mich nun damit beschäftigt und die Korrektheit der
 betreffenden Aussage bewiesen.
 
-##Mittelteil
+## Mittelteil
 Ich habe ein Bild des Scans bekommen. Der Teil um den es geht ist die
 unterstrichene Aussage im zweiten Bild.
 
@@ -26,7 +26,7 @@ Ich verwende im Folgenden für eine Menge $$E$$ die Notation $$P(E)$$ als
 Potenzmenge von $$E$$.
 
 
-###Definitionen
+### Definitionen
 Sei $$E$$ eine Menge, ein Hüllensystem $$H\subseteq P(E)$$ heißt
 _Hüllensystem_, falls gilt:
 
@@ -39,18 +39,18 @@ $$X\subseteq E$$ von $$E$$ heißt _$$F$$-abgeschlossen_, falls für alle
 $$Y\subseteq X$$, $$Y\in \operatorname{def}(F)$$ gilt, dass
 $$F(Y)\subseteq X$$.
 
-##Ende
+## Ende
 Hier nun der Beweis:
 
-####Voraussetzung
+#### Voraussetzung
 Sei $$E$$ eine Menge, $$F: P(E)\rightarrow P(E)$$. Sei weiterhin
 $$H:=\{X\subseteq E, X$$ ist $$F$$-abgeschlossen$$\}$$ die Menge der
 $$F$$-abgeschlossen Teilmengen von $$E$$.
 
-####Behauptung
+#### Behauptung
 Dann ist $$H$$ ein Hüllensystem auf $$E$$.
 
-####Beweis
+#### Beweis
 
 Dass $$H\subseteq P(E)$$ ist klar per definitionem. Es bleiben also die
 anderen beiden Eigenschaften in der Definition eines Hüllensystems zu

@@ -6,11 +6,11 @@ tags : [brainteaser, easy, stochastic]
 ---
 {% include math %}
 
-#Intro
+# Intro
 I have found this brainteaser in Max Damas "Automated trading", but
 without a solution. I think my solution should be correct.
 
-##Problem
+## Problem
 You have 5 quarters on the table in front of you. Four of them are
 fair, i.e., one side is heads the other tails, and one coin has heads
 on both sides.  
@@ -20,7 +20,7 @@ What is the probability, that you picked up the coin with two heads?
 
 I suggest you try this for yourself before reading on.
 
-##Solution
+## Solution
 There is a thing called Bayes' theorem, which makes this seemingly
 difficult brainteaser a simple exercise, as we mathematicians like to
 call it.  

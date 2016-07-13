@@ -5,14 +5,14 @@ tags : [stochastic, easy]
 ---
 {% include math %}
 
-#Introduction
+# Introduction
 I often stumbled across basic stochastic properties which I do not
 remember exactly anymore, so here it is: A post just for me, where i
 can search for stochastic stuff. This also means that this post will
 not be very detailed, but if you had basic stochastic in school you
 should be able to follow along.
 
-#Measure Space
+# Measure Space
 First, let us define what a measure space is.  
 We have the set $$\Omega$$ of samples. You can think of it as a set
 containing all possible outcomes.  
@@ -29,7 +29,7 @@ Furthermore $$P(\emptyset)=0$$.
 
 The triple $$(\Omega, \mathcal{F}, P)$$ is now called a measure space.
 
-#Random Variables
+# Random Variables
 To make things easy, I only consider random real-valued variables. The
 interested reader can certainly try to define random variables into any
 measurable set (Sorry Vitali sets).  
@@ -51,11 +51,11 @@ suspect.
 If we have two random variables $$X$$ and $$Y$$ we say that they are
 independent if and only if $$p_{XY}(x,y)=p_X(x)\cdot p_Y(y)$$.
 
-#Distribution Functions
+# Distribution Functions
 For every propability density $$p_X$$ there is the corresponding
 distribution function $$F_X(z)=P(X\leq z)=\int_{-\infty}^z p_X(x)dx$$.
 
-#Expected Value
+# Expected Value
 The expected value is the value which you would expect "on average",
 whatever that means exactly. It is defined as
 $$\mathbb{E}(X)=\int_{-\infty}^\infty xp_X(x)dx$$ if it exists.  
@@ -71,7 +71,7 @@ $$\mathbb{E}(aX+bY+c)=a\mathbb{E}(X)+b\mathbb{E}(Y)+c$$ for $$X$$,
 $$Y$$ random variables and $$a$$, $$b$$, $$c$$ constants,
 even when $$X$$ and $$Y$$ are not independent.
 
-#Variance
+# Variance
 Variance is a measure for deviation from the expected value. Much like standard
 deviation. In fact it is the squared standard deviation.
 $$Var(X)=\mathbb{E}((X-\mathbb{E}(X))^2)$$, and the positive
@@ -88,7 +88,7 @@ You might find it useful to know that:
 - $$Var(X+Y)=Var(X)+Var(Y)$$ for _uncorrelated_ random variables $$X$$
   and $$Y$$. (see below for a explanation of uncorrelatedness)
 
-#Covariance
+# Covariance
 Covariance measures how two random variables $$X$$ and $$Y$$ change
 together.
 $$Covar(X,Y)=\mathbb{E}((X-\mathbb{E}(X))(Y-\mathbb{E}(Y)))
@@ -99,7 +99,7 @@ $$Covar(X,Y)=0$$.
 By the way, variance can be explained in terms of covariance as
 $$Var(X)=Covar(X,X)$$.
 
-#Normal Distribution
+# Normal Distribution
 I should probably make a warning sign here, since there is a big
 formula ahead. Normal distribution is just a special kind of
 distribution. We say that a random variable $$X$$ has a normal distribution
@@ -133,7 +133,7 @@ To get more familiar with this stuff, I urge you to do the following exercises:
 - Show that a random variable $$X$$ with $$X\sim\mathcal{N}(0,1)$$ has mean $$0$$ and variance $$1$$. What terms do you have to compute to show this?
 - Suppose again $$X\sim \mathcal{N}(0,1)$$. Let $$Y=\sigma X+\mu$$ be another random variable. Show that $$Y\sim\mathcal{N}(\mu,\sigma^2)$$.
 
-#Central Limit Theorem
+# Central Limit Theorem
 So, what is normal about the normal distribution?
 Suppose we have random variables $$Y_1$$, $$Y_2$$,... , which are
 independent and identically distributed with mean $$0$$ and variance
@@ -152,7 +152,7 @@ $$
 Note that this is independent of the distributions of the $$Y_i$$. We
 only demanded them to be equal.
 
-#The End
+# The End
 Congratulations, you finally made it to the end. I suppose not many
 people make it this far. I hope you enjoyed the journey and learned
 something along the way.

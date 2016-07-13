@@ -5,7 +5,7 @@ tags : [trading, python]
 ---
 {% include math %}
 
-##Introduction
+## Introduction
 In this post, we play a little bit around with python and the
 pandas-library.
 The motivation is the backtesting of algorithmic trading strategies.
@@ -22,7 +22,7 @@ _average_ because we do it for every day.
 The point of this post is to implement this strategy and test it
 against historical stock data of Amazon.
 
-##Let the fun start
+## Let the fun start
 First, we import pandas. That's a library for working with time series
 and data munging.
 
@@ -227,7 +227,7 @@ those moving averages. If we take into account other stuff like
 transactions costs this strategy is not profitable but was fun to code
 and play with nevertheless.
 
-##Improvements
+## Improvements
 Why did we take a moving average over 20 days and another one over 40
 days? Why not 10 and 20 days? I do not know. This was just to play
 around. In general we can take an average over $$t$$ and $$k$$ days.
@@ -259,6 +259,6 @@ core idea. Including slippage in this model is difficult, because we
 compute on historical data, so we cannot take into account our own
 feedback back into the market.
 
-##Thanks
+## Thanks
 Thanks to twiecki, from whom I have borrowed some formulas and
 pythonic design ideas.

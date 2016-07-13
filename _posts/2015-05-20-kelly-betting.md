@@ -5,12 +5,12 @@ tags : [brainteaser, stochastic, trading, math]
 ---
 {% include math %}
 
-#Intro
+# Intro
 In this post I am going to talk a bit about Kelly betting, since today
 I was flabbergasted that I did not write anything about it yet. Kelly
 betting is a strategy how to allocate money to bets.
 
-##Problem
+## Problem
 Assume we are playing a game. I am going to flip a coin. You can bet
 an amount $$x$$$ on the result of the coinflip. If you are right, you
 win $$x$$$. If you are wrong, you lose your $$x$$$. Let us say that
@@ -25,7 +25,7 @@ Get out and try it before reading on. And I hope you will come back
 with the right solution or at least utterly frustrated and nearly
 crying.
 
-##Solution
+## Solution
 The expected return is $$(1+f)$$ each time we win and $$(1-f)$$ each
 time we lose. Now putting those nasty probabilities in we get a return
 of $$(1+f)^p+(1-f)^{1-p}$$. We need to find the maximal value of that

@@ -5,11 +5,11 @@ tags : [math, stochastic, numerical analysis]
 ---
 {% include math %}
 
-##Introduction
+## Introduction
 In this post I am going to explain the Euler-Maruyama method for
 approximating stochastical differential equations.
 
-##Euler method
+## Euler method
 First, the Euler method. Suppose you have a (deterministic) ordinary differential
 equation
 $$
@@ -55,7 +55,7 @@ $$
 If this is not clear to you I suggest you stop here and draw a
 picture.
 
-##Euler-Maruyama method
+## Euler-Maruyama method
 The Euler-Maruyama method is for SDEs the same as the Euler method is
 for ODEs. Suppose we have the SDE
 

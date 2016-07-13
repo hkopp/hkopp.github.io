@@ -5,7 +5,7 @@ tags : [trading, elementary, math, derivative pricing]
 ---
 {% include math %}
 
-##Introduction
+## Introduction
 In this post I am going to explain options and derive the put-call-parity for european options.
 
 First of all, please imagine some en-dashes between "put" and "call", and "call" and "parity" in the title.
@@ -34,7 +34,7 @@ This means, that our profit is $$\max\{ 0, S(T)-E\}$$.
 
 An analogous observation for put options is left as a small exercise.
 
-##Put-call-parity
+## Put-call-parity
 Now we want to establish a relationship between the price of a put option $$P$$ and a call option $$C$$.
 Suppose we have two portfolios at time $$0$$.
 
@@ -50,7 +50,7 @@ C+E\cdot e^{-rT} = P+S
 \end{equation}
 And this is the put-call-parity for european options mentioned in the title.
 
-##Open Issues
+## Open Issues
 We now know how to price a put option if we have the value of the call option and the other way around.
 But we do not know either of them.
 What we gained is that in further discussions of the price of options we can restrict ourselves w.l.o.g. to one type of option.

@@ -4,7 +4,7 @@ title: Hello World!
 tagline: no offense to the rest of the universe
 ---
 
-##Intro
+## Intro
 
 Hi all,
 This is some kind of website. Up to now it is all messy and it will

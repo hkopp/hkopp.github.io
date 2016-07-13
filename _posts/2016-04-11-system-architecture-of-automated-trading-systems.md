@@ -4,7 +4,7 @@ category : Lesson
 tags : [programming, software design, trading, infrastructure]
 ---
 
-##Introduction
+## Introduction
 In this post we will look at a basic system architecture of fully
 automated trading systems.
 An algorithmic trading system is a program that automatically trades
@@ -22,7 +22,7 @@ You should know a little bit about object oriented programming to
 understand this article. My approach is to explain the objects in the
 order of information flow, except the logging facilities.
 
-##Price Stream
+## Price Stream
 The first important part of an algorithmic trading system is the price
 feed. This is basically a separate thread which streams the current
 prices from the exchange. Mostly this works via HTTP streams or the FIX
@@ -31,12 +31,12 @@ A more advanced price handler could even provide the whole order book.
 Sometimes these prices cover multiple financial instruments. On
 these price signals the rest of the trading system depends.
 
-##Trading Strategy
+## Trading Strategy
 The trading strategy is the heart of a trading system. It receives the
 prices and generates buy or sell signals. This module is perhaps the
 most closely guarded secret of any fund.
 
-##Risk Management module
+## Risk Management module
 Before executing the buy or sell signals the risk management module
 determines if the orders are in line with risk management objectives.
 The risk management module also determines the order size. This could
@@ -47,7 +47,7 @@ incorporated in the risk management.
 The risk management module creates other events which are processed by
 the execution handler.
 
-##Execution Handler
+## Execution Handler
 Finally we can execute the order. If we have a big order simply buying or
 selling all in one go is a bad idea, since then we suffer
 significant slippage. To this end we have an algorithmic execution
@@ -58,7 +58,7 @@ trading, the execution handler also has to incorporate a routing
 object which is responsible for routing the orders to the best
 exchange.
 
-##Logging facilities
+## Logging facilities
 Throughout all of these modules there have to be logging facilities
 and perhaps a graphical user interface to see the current state of the
 system. This should provide accounting to see and evaluate the

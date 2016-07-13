@@ -6,14 +6,14 @@ tags : [trading, derivative pricing, math, python]
 {% include math %}
 
 
-##Introduction
+## Introduction
 In this post we are going to take a look at continuous barrier
 options.
 These are options which are activated or deactivated when crossing a
 predetermined price barrier.
 We will explain the In-Out-parity and compute the expected payoff.
 
-##Definitions
+## Definitions
 A continuous barrier option is an option on an underlying that pays
 out (or does not pay out) depending on if the underlying has crossed a
 price barrier. Once crossing that barrier and being activated
@@ -32,7 +32,7 @@ In particular there are four flavors of continuous barrier options:
 - _Down-and-in_: As one would expect, here spot price starts above the barrier level. When it crosses the barrier it is knocked in.
 
 
-##Advantages
+## Advantages
 Why should you trade that stuff? Isn't this some wall-street gambler
 tool?    
 It depends. You can of course use it as a gambler tool if you don't
@@ -48,7 +48,7 @@ than their vanilla counterparts. As you can see, they will pay at most
 the value of their vanilla counterpart, so their price is at most the
 price of the vanilla option (in an arbitrage-free world).
 
-##In-out-parity
+## In-out-parity
 With european options we saw that there is a [parity between the put
 and the call]({% post_url 2015-01-04-put-call-parity-for-european-options %})
 which helped us to reduce the price of the call to the price of the
@@ -92,7 +92,7 @@ up-and-in option $$O_{in}$$ and the vanilla option $$O$$ and want to
 know the price of $$O_{out}$$.
 It also works analogously for down-and-X options.
 
-##Pricing
+## Pricing
 How do we price these monsters?
 As with other options, we can take the Black-Scholes differential
 equation and solve for the boundary condition of the payoff of a
@@ -114,7 +114,7 @@ In-Out-parity.
 import numpy as np
 import matplotlib.pyplot as plt 
 
-#Defining the relevant functions
+# Defining the relevant functions
 
 def geometric_brownian_motion(N = 200, T = 1, S_0 = 1, mu=0.08, sigma = 0.05):
         """N is the number of steps, T is the time of expiry,
@@ -180,7 +180,7 @@ left we go, the smaller will be the influence of the barrier.
 To get the price of the barrier option, we have to discount the interest rate.
 This is left as a small exercise.
 
-#Practical problems
+## Practical problems
 In practice there often is a problem with determining if the price of
 the underlying has crossed the barrier level.
 Concretely, which price do we take? The bid or the ask? The midpoint?

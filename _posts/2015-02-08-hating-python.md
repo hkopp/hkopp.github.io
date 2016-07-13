@@ -3,7 +3,7 @@ layout: post
 category : Computer Trick
 tags : [python,ubuntu,rant]
 ---
-##Broken Pip
+## Broken Pip
 So I managed upgrading Ubuntu from 12.04 to 14.04 and somehow even fixed some issues with tex by typing obscure commands in my shell.
 Now I wanted to install [zipline](https://github.com/quantopian/zipline) for which I need [conda](http://continuum.io/downloads) for which I need pip, the python package manager.  
 Well, seems the upgrade to 14.04 broke pip.
@@ -32,7 +32,7 @@ Downloading/unpacking conda
 Then another ``./.local/bin/pip install --user conda`` worked.
 Don't ask me why.
 
-##Arguing with Conda
+## Arguing with Conda
 Now, on to zipline.
 At least that was my thought process.
 
@@ -84,7 +84,7 @@ And /usr/bin/activate did not exist.
 I decided to remove all that damn conda-stuff and install zipline via pip.
 At least ``pip uninstall conda`` worked like a charm.
 
-##More pip
+## More pip
 So according to the [zipline docs](https://github.com/quantopian/zipline) I needed to do
 {% highlight bash %}
 pip install numpy   # Pre-install numpy to handle dependency chain quirk
@@ -96,7 +96,7 @@ I do not know why, because ``which pip`` gave me /usr/bin/pip which was broken a
 I ran ``python ~/.local/bin/run_algo.py -f dual_mavg.py --symbols AAPL --start 2011-1-1 --end 2012-1-1 -o dma.pickle`` according to the zipline docs which wrote a dma.pickle file.
 It would be nice to set a path for python, so it looks into ~/.local/bin/ and i can just write ``python run_algo.py -f dual_mavg.py blablabla`` but I have not found out how this works.
 
-##Conclusion
+## Conclusion
 The python ecosystem sucks. I have two package managers, easy_install and pip, which can repair each other.
 I mean, what is the point of having a package manager bundled with the operating system when you cannot use it and are doomed to update your python-packages manually like some Windows-user?  
 There is virtualenv and anaconda, which mostly do the same thing.

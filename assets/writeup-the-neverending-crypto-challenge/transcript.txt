@@ -1,0 +1,1070 @@
+------------------------------------------
+Welcome to The Neverending Crypto!
+Quick, find Falkor and get through this!
+This is level 1, the Bookstore
+Round 1. Give me some text:
+#######
+server answer:a encrypted is .- 
+What is .- - .-. . -.-- ..-   ...- ...   --. -- --- .-. -.-  decrypted?
+:
+Cleartext is:atreyu vs gmork
+Correct!
+Round 2. Give me some text:
+#######
+server answer:a encrypted is .- 
+What is -.. --- -. -   ..-. --- .-. --. . -   .- ..- .-. -.-- -.  decrypted?
+:
+Cleartext is:dont forget auryn
+Correct!
+Round 3. Give me some text:
+#######
+server answer:a encrypted is .- 
+What is -- --- --- -.   -.-. .... .. .-.. -..  decrypted?
+:
+Cleartext is:moon child
+Correct!
+Round 4. Give me some text:
+#######
+server answer:a encrypted is .- 
+What is ..   --- .-- .   -.-- --- ..-  decrypted?
+:
+Cleartext is:i owe you
+Correct!
+Round 5. Give me some text:
+#######
+server answer:a encrypted is .- 
+What is -... .- ... - .. .- -.  decrypted?
+:
+Cleartext is:bastian
+Correct!
+Round 6. Give me some text:
+#######
+server answer:a encrypted is .- 
+What is ... .- ...- .   - .... .   .--. .-. .. -. -.-. . ... ...  decrypted?
+:
+Cleartext is:save the princess
+Correct!
+Round 7. Give me some text:
+#######
+server answer:a encrypted is .- 
+What is - .-. -.--   ... .-- .. -- -- .. -. --.  decrypted?
+:
+Cleartext is:try swimming
+Correct!
+Round 8. Give me some text:
+#######
+server answer:a encrypted is .- 
+What is --. -- --- .-. -.- ...   -.-. --- --- .-..  decrypted?
+:
+Cleartext is:gmorks cool
+Correct!
+Round 9. Give me some text:
+#######
+server answer:a encrypted is .- 
+What is ... .- ...- .   - .... .   .--. .-. .. -. -.-. . ... ...  decrypted?
+:
+Cleartext is:save the princess
+Correct!
+Round 10. Give me some text:
+#######
+server answer:a encrypted is .- 
+What is -... .- ... - .. .- -.  decrypted?
+:
+Cleartext is:bastian
+Correct!
+Round 11. Give me some text:
+#######
+server answer:a encrypted is .- 
+What is - .... .   --- .-. .- -.-. .-.. .  decrypted?
+:
+Cleartext is:the oracle
+Correct!
+Round 12. Give me some text:
+#######
+server answer:a encrypted is .- 
+What is --. -- --- .-. -.- ...   -.-. --- --- .-..  decrypted?
+:
+Cleartext is:gmorks cool
+Correct!
+Round 13. Give me some text:
+#######
+server answer:a encrypted is .- 
+What is - .... .   --- .-. .- -.-. .-.. .  decrypted?
+:
+Cleartext is:the oracle
+Correct!
+Round 14. Give me some text:
+#######
+server answer:a encrypted is .- 
+What is .-. . .- -.. .. -. --.   .. ...   -.. .- -. --. . .-. --- ..- .-. ...  decrypted?
+:
+Cleartext is:reading is dangerours
+Correct!
+Round 15. Give me some text:
+#######
+server answer:a encrypted is .- 
+What is - .... .   --- .-. .- -.-. .-.. .  decrypted?
+:
+Cleartext is:the oracle
+Correct!
+Round 16. Give me some text:
+#######
+server answer:a encrypted is .- 
+What is ..-. .-. .- --. -- . -. - .- - .. --- -.  decrypted?
+:
+Cleartext is:fragmentation
+Correct!
+Round 17. Give me some text:
+#######
+server answer:a encrypted is .- 
+What is --. .. .- -. -   - ..- .-. - .-.. .  decrypted?
+:
+Cleartext is:giant turtle
+Correct!
+Round 18. Give me some text:
+#######
+server answer:a encrypted is .- 
+What is ... .- ...- .   - .... .   .--. .-. .. -. -.-. . ... ...  decrypted?
+:
+Cleartext is:save the princess
+Correct!
+Round 19. Give me some text:
+#######
+server answer:a encrypted is .- 
+What is --. .. .- -. -   - ..- .-. - .-.. .  decrypted?
+:
+Cleartext is:giant turtle
+Correct!
+Round 20. Give me some text:
+#######
+server answer:a encrypted is .- 
+What is - .-. -.--   ... .-- .. -- -- .. -. --.  decrypted?
+:
+Cleartext is:try swimming
+Correct!
+Round 21. Give me some text:
+#######
+server answer:a encrypted is .- 
+What is .-. . .- -.. .. -. --.   .. ...   -.. .- -. --. . .-. --- ..- .-. ...  decrypted?
+:
+Cleartext is:reading is dangerours
+Correct!
+Round 22. Give me some text:
+#######
+server answer:a encrypted is .- 
+What is - .... .   --- .-. .- -.-. .-.. .  decrypted?
+:
+Cleartext is:the oracle
+Correct!
+Round 23. Give me some text:
+#######
+server answer:a encrypted is .- 
+What is -- -.--   .-.. ..- -.-. -.- -.. .-. .- --. --- -.  decrypted?
+:
+Cleartext is:my luckdragon
+Correct!
+Round 24. Give me some text:
+#######
+server answer:a encrypted is .- 
+What is ... .- ...- .   - .... .   .--. .-. .. -. -.-. . ... ...  decrypted?
+:
+Cleartext is:save the princess
+Correct!
+Round 25. Give me some text:
+#######
+server answer:a encrypted is .- 
+What is -.. --- -. -   ..-. --- .-. --. . -   .- ..- .-. -.-- -.  decrypted?
+:
+Cleartext is:dont forget auryn
+Correct!
+Round 26. Give me some text:
+#######
+server answer:a encrypted is .- 
+What is - .-. -.--   ... .-- .. -- -- .. -. --.  decrypted?
+:
+Cleartext is:try swimming
+Correct!
+Round 27. Give me some text:
+#######
+server answer:a encrypted is .- 
+What is .-. . .- -.. .. -. --.   .. ...   -.. .- -. --. . .-. --- ..- .-. ...  decrypted?
+:
+Cleartext is:reading is dangerours
+Correct!
+Round 28. Give me some text:
+#######
+server answer:a encrypted is .- 
+What is ..-. .-. .- --. -- . -. - .- - .. --- -.  decrypted?
+:
+Cleartext is:fragmentation
+Correct!
+Round 29. Give me some text:
+#######
+server answer:a encrypted is .- 
+What is - .... .   --- .-. .- -.-. .-.. .  decrypted?
+:
+Cleartext is:the oracle
+Correct!
+Round 30. Give me some text:
+#######
+server answer:a encrypted is .- 
+What is ..   --- .-- .   -.-- --- ..-  decrypted?
+:
+Cleartext is:i owe you
+Correct!
+Round 31. Give me some text:
+#######
+server answer:a encrypted is .- 
+What is -... .- ... - .. .- -.  decrypted?
+:
+Cleartext is:bastian
+Correct!
+Round 32. Give me some text:
+#######
+server answer:a encrypted is .- 
+What is --. -- --- .-. -.- ...   -.-. --- --- .-..  decrypted?
+:
+Cleartext is:gmorks cool
+Correct!
+Round 33. Give me some text:
+#######
+server answer:a encrypted is .- 
+What is --. -- --- .-. -.- ...   -.-. --- --- .-..  decrypted?
+:
+Cleartext is:gmorks cool
+Correct!
+Round 34. Give me some text:
+#######
+server answer:a encrypted is .- 
+What is .- - .-. . -.-- ..-   ...- ...   --. -- --- .-. -.-  decrypted?
+:
+Cleartext is:atreyu vs gmork
+Correct!
+Round 35. Give me some text:
+#######
+server answer:a encrypted is .- 
+What is ... .- ...- .   - .... .   .--. .-. .. -. -.-. . ... ...  decrypted?
+:
+Cleartext is:save the princess
+Correct!
+Round 36. Give me some text:
+#######
+server answer:a encrypted is .- 
+What is -- -.--   .-.. ..- -.-. -.- -.. .-. .- --. --- -.  decrypted?
+:
+Cleartext is:my luckdragon
+Correct!
+Round 37. Give me some text:
+#######
+server answer:a encrypted is .- 
+What is .- - .-. . -.-- ..-   ...- ...   --. -- --- .-. -.-  decrypted?
+:
+Cleartext is:atreyu vs gmork
+Correct!
+Round 38. Give me some text:
+#######
+server answer:a encrypted is .- 
+What is -... .- ... - .. .- -.  decrypted?
+:
+Cleartext is:bastian
+Correct!
+Round 39. Give me some text:
+#######
+server answer:a encrypted is .- 
+What is ... .- ...- .   - .... .   .--. .-. .. -. -.-. . ... ...  decrypted?
+:
+Cleartext is:save the princess
+Correct!
+Round 40. Give me some text:
+#######
+server answer:a encrypted is .- 
+What is - .... .   -. --- - .... .. -. --.  decrypted?
+:
+Cleartext is:the nothing
+Correct!
+Round 41. Give me some text:
+#######
+server answer:a encrypted is .- 
+What is .-- . .-.. -.-. --- -- .   .- - .-. . -.-- ..-  decrypted?
+:
+Cleartext is:welcome atreyu
+Correct!
+Round 42. Give me some text:
+#######
+server answer:a encrypted is .- 
+What is - .... .   --- .-. .- -.-. .-.. .  decrypted?
+:
+Cleartext is:the oracle
+Correct!
+Round 43. Give me some text:
+#######
+server answer:a encrypted is .- 
+What is ..   --- .-- .   -.-- --- ..-  decrypted?
+:
+Cleartext is:i owe you
+Correct!
+Round 44. Give me some text:
+#######
+server answer:a encrypted is .- 
+What is - .... .   -. --- - .... .. -. --.  decrypted?
+:
+Cleartext is:the nothing
+Correct!
+Round 45. Give me some text:
+#######
+server answer:a encrypted is .- 
+What is ... .- ...- .   - .... .   .--. .-. .. -. -.-. . ... ...  decrypted?
+:
+Cleartext is:save the princess
+Correct!
+Round 46. Give me some text:
+#######
+server answer:a encrypted is .- 
+What is -- -.--   .-.. ..- -.-. -.- -.. .-. .- --. --- -.  decrypted?
+:
+Cleartext is:my luckdragon
+Correct!
+Round 47. Give me some text:
+#######
+server answer:a encrypted is .- 
+What is .-. . .- -.. .. -. --.   .. ...   -.. .- -. --. . .-. --- ..- .-. ...  decrypted?
+:
+Cleartext is:reading is dangerours
+Correct!
+Round 48. Give me some text:
+#######
+server answer:a encrypted is .- 
+What is --. -- --- .-. -.- ...   -.-. --- --- .-..  decrypted?
+:
+Cleartext is:gmorks cool
+Correct!
+Round 49. Give me some text:
+#######
+server answer:a encrypted is .- 
+What is -- --- --- -.   -.-. .... .. .-.. -..  decrypted?
+:
+Cleartext is:moon child
+Correct!
+Round 50. Give me some text:
+#######
+server answer:a encrypted is .- 
+What is - .-. -.--   ... .-- .. -- -- .. -. --.  decrypted?
+:
+Cleartext is:try swimming
+Correct!
+Round complete!
+TUCTF{i_wi11_n0t_5teal}
+------------------------------------------
+You take the book
+This is level 2 the attic
+Round 1. Give me some text:
+#######
+server answer:ABCDEFGH encrypted is NOPQRSTU
+What is n" r'#-$!-tz| x decrypted?
+:
+Cleartext is:atreyu vs gmork
+Correct!
+Round 2. Give me some text:
+#######
+server answer:ABCDEFGH encrypted is NOPQRSTU
+What is v-|%r-'|# decrypted?
+:
+Cleartext is:i owe you
+Correct!
+Round 3. Give me some text:
+#######
+server answer:ABCDEFGH encrypted is NOPQRSTU
+What is " '-!%vzzv{t decrypted?
+:
+Cleartext is:try swimming
+Correct!
+Round 4. Give me some text:
+#######
+server answer:ABCDEFGH encrypted is NOPQRSTU
+What is s ntzr{"n"v|{ decrypted?
+:
+Cleartext is:fragmentation
+Correct!
+Round 5. Give me some text:
+#######
+server answer:ABCDEFGH encrypted is NOPQRSTU
+What is on!"vn{ decrypted?
+:
+Cleartext is:bastian
+Correct!
+Round 6. Give me some text:
+#######
+server answer:ABCDEFGH encrypted is NOPQRSTU
+What is  rnqv{t-v!-qn{tr |# ! decrypted?
+:
+Cleartext is:reading is dangerours
+Correct!
+Round 7. Give me some text:
+#######
+server answer:ABCDEFGH encrypted is NOPQRSTU
+What is "ur-| npyr decrypted?
+:
+Cleartext is:the oracle
+Correct!
+Round 8. Give me some text:
+#######
+server answer:ABCDEFGH encrypted is NOPQRSTU
+What is z||{-puvyq decrypted?
+:
+Cleartext is:moon child
+Correct!
+Round 9. Give me some text:
+#######
+server answer:ABCDEFGH encrypted is NOPQRSTU
+What is "ur-| npyr decrypted?
+:
+Cleartext is:the oracle
+Correct!
+Round 10. Give me some text:
+#######
+server answer:ABCDEFGH encrypted is NOPQRSTU
+What is tz| x!-p||y decrypted?
+:
+Cleartext is:gmorks cool
+Correct!
+Round 11. Give me some text:
+#######
+server answer:ABCDEFGH encrypted is NOPQRSTU
+What is tz| x!-p||y decrypted?
+:
+Cleartext is:gmorks cool
+Correct!
+Round 12. Give me some text:
+#######
+server answer:ABCDEFGH encrypted is NOPQRSTU
+What is !n$r-"ur-} v{pr!! decrypted?
+:
+Cleartext is:save the princess
+Correct!
+Round 13. Give me some text:
+#######
+server answer:ABCDEFGH encrypted is NOPQRSTU
+What is v-|%r-'|# decrypted?
+:
+Cleartext is:i owe you
+Correct!
+Round 14. Give me some text:
+#######
+server answer:ABCDEFGH encrypted is NOPQRSTU
+What is z'-y#pxq nt|{ decrypted?
+:
+Cleartext is:my luckdragon
+Correct!
+Round 15. Give me some text:
+#######
+server answer:ABCDEFGH encrypted is NOPQRSTU
+What is n" r'#-$!-tz| x decrypted?
+:
+Cleartext is:atreyu vs gmork
+Correct!
+Round 16. Give me some text:
+#######
+server answer:ABCDEFGH encrypted is NOPQRSTU
+What is tz| x!-p||y decrypted?
+:
+Cleartext is:gmorks cool
+Correct!
+Round 17. Give me some text:
+#######
+server answer:ABCDEFGH encrypted is NOPQRSTU
+What is z'-y#pxq nt|{ decrypted?
+:
+Cleartext is:my luckdragon
+Correct!
+Round 18. Give me some text:
+#######
+server answer:ABCDEFGH encrypted is NOPQRSTU
+What is tz| x!-p||y decrypted?
+:
+Cleartext is:gmorks cool
+Correct!
+Round 19. Give me some text:
+#######
+server answer:ABCDEFGH encrypted is NOPQRSTU
+What is tz| x!-p||y decrypted?
+:
+Cleartext is:gmorks cool
+Correct!
+Round 20. Give me some text:
+#######
+server answer:ABCDEFGH encrypted is NOPQRSTU
+What is z'-y#pxq nt|{ decrypted?
+:
+Cleartext is:my luckdragon
+Correct!
+Round 21. Give me some text:
+#######
+server answer:ABCDEFGH encrypted is NOPQRSTU
+What is n" r'#-$!-tz| x decrypted?
+:
+Cleartext is:atreyu vs gmork
+Correct!
+Round 22. Give me some text:
+#######
+server answer:ABCDEFGH encrypted is NOPQRSTU
+What is "ur-| npyr decrypted?
+:
+Cleartext is:the oracle
+Correct!
+Round 23. Give me some text:
+#######
+server answer:ABCDEFGH encrypted is NOPQRSTU
+What is %ryp|zr-n" r'# decrypted?
+:
+Cleartext is:welcome atreyu
+Correct!
+Round 24. Give me some text:
+#######
+server answer:ABCDEFGH encrypted is NOPQRSTU
+What is " '-!%vzzv{t decrypted?
+:
+Cleartext is:try swimming
+Correct!
+Round 25. Give me some text:
+#######
+server answer:ABCDEFGH encrypted is NOPQRSTU
+What is n" r'#-$!-tz| x decrypted?
+:
+Cleartext is:atreyu vs gmork
+Correct!
+Round 26. Give me some text:
+#######
+server answer:ABCDEFGH encrypted is NOPQRSTU
+What is %ryp|zr-n" r'# decrypted?
+:
+Cleartext is:welcome atreyu
+Correct!
+Round 27. Give me some text:
+#######
+server answer:ABCDEFGH encrypted is NOPQRSTU
+What is "ur-{|"uv{t decrypted?
+:
+Cleartext is:the nothing
+Correct!
+Round 28. Give me some text:
+#######
+server answer:ABCDEFGH encrypted is NOPQRSTU
+What is n" r'#-$!-tz| x decrypted?
+:
+Cleartext is:atreyu vs gmork
+Correct!
+Round 29. Give me some text:
+#######
+server answer:ABCDEFGH encrypted is NOPQRSTU
+What is tvn{"-"# "yr decrypted?
+:
+Cleartext is:giant turtle
+Correct!
+Round 30. Give me some text:
+#######
+server answer:ABCDEFGH encrypted is NOPQRSTU
+What is "ur-| npyr decrypted?
+:
+Cleartext is:the oracle
+Correct!
+Round 31. Give me some text:
+#######
+server answer:ABCDEFGH encrypted is NOPQRSTU
+What is s ntzr{"n"v|{ decrypted?
+:
+Cleartext is:fragmentation
+Correct!
+Round 32. Give me some text:
+#######
+server answer:ABCDEFGH encrypted is NOPQRSTU
+What is tvn{"-"# "yr decrypted?
+:
+Cleartext is:giant turtle
+Correct!
+Round 33. Give me some text:
+#######
+server answer:ABCDEFGH encrypted is NOPQRSTU
+What is on!"vn{ decrypted?
+:
+Cleartext is:bastian
+Correct!
+Round 34. Give me some text:
+#######
+server answer:ABCDEFGH encrypted is NOPQRSTU
+What is v-|%r-'|# decrypted?
+:
+Cleartext is:i owe you
+Correct!
+Round 35. Give me some text:
+#######
+server answer:ABCDEFGH encrypted is NOPQRSTU
+What is on!"vn{ decrypted?
+:
+Cleartext is:bastian
+Correct!
+Round 36. Give me some text:
+#######
+server answer:ABCDEFGH encrypted is NOPQRSTU
+What is  rnqv{t-v!-qn{tr |# ! decrypted?
+:
+Cleartext is:reading is dangerours
+Correct!
+Round 37. Give me some text:
+#######
+server answer:ABCDEFGH encrypted is NOPQRSTU
+What is "ur-{|"uv{t decrypted?
+:
+Cleartext is:the nothing
+Correct!
+Round 38. Give me some text:
+#######
+server answer:ABCDEFGH encrypted is NOPQRSTU
+What is %ryp|zr-n" r'# decrypted?
+:
+Cleartext is:welcome atreyu
+Correct!
+Round 39. Give me some text:
+#######
+server answer:ABCDEFGH encrypted is NOPQRSTU
+What is q|{"-s| tr"-n# '{ decrypted?
+:
+Cleartext is:dont forget auryn
+Correct!
+Round 40. Give me some text:
+#######
+server answer:ABCDEFGH encrypted is NOPQRSTU
+What is !n$r-"ur-} v{pr!! decrypted?
+:
+Cleartext is:save the princess
+Correct!
+Round 41. Give me some text:
+#######
+server answer:ABCDEFGH encrypted is NOPQRSTU
+What is v-|%r-'|# decrypted?
+:
+Cleartext is:i owe you
+Correct!
+Round 42. Give me some text:
+#######
+server answer:ABCDEFGH encrypted is NOPQRSTU
+What is v-|%r-'|# decrypted?
+:
+Cleartext is:i owe you
+Correct!
+Round 43. Give me some text:
+#######
+server answer:ABCDEFGH encrypted is NOPQRSTU
+What is "ur-| npyr decrypted?
+:
+Cleartext is:the oracle
+Correct!
+Round 44. Give me some text:
+#######
+server answer:ABCDEFGH encrypted is NOPQRSTU
+What is n" r'#-$!-tz| x decrypted?
+:
+Cleartext is:atreyu vs gmork
+Correct!
+Round 45. Give me some text:
+#######
+server answer:ABCDEFGH encrypted is NOPQRSTU
+What is z||{-puvyq decrypted?
+:
+Cleartext is:moon child
+Correct!
+Round 46. Give me some text:
+#######
+server answer:ABCDEFGH encrypted is NOPQRSTU
+What is n" r'#-$!-tz| x decrypted?
+:
+Cleartext is:atreyu vs gmork
+Correct!
+Round 47. Give me some text:
+#######
+server answer:ABCDEFGH encrypted is NOPQRSTU
+What is  rnqv{t-v!-qn{tr |# ! decrypted?
+:
+Cleartext is:reading is dangerours
+Correct!
+Round 48. Give me some text:
+#######
+server answer:ABCDEFGH encrypted is NOPQRSTU
+What is "ur-{|"uv{t decrypted?
+:
+Cleartext is:the nothing
+Correct!
+Round 49. Give me some text:
+#######
+server answer:ABCDEFGH encrypted is NOPQRSTU
+What is  rnqv{t-v!-qn{tr |# ! decrypted?
+:
+Cleartext is:reading is dangerours
+Correct!
+Round 50. Give me some text:
+#######
+server answer:ABCDEFGH encrypted is NOPQRSTU
+What is v-|%r-'|# decrypted?
+:
+Cleartext is:i owe you
+Correct!
+Round complete!
+TUCTF{c4n_s0me0ne_turn_a_1ight_0n}
+------------------------------------------
+You have found The Nothing
+This is level 3, The Nothing.
+Round 1. Give me some text:
+#######
+server answer:the nothing encrypted is yd. brydcbi
+What is ,.njrm. ayp.fg decrypted?
+:
+Cleartext is:welcome atreyu
+Correct!
+Round 2. Give me some text:
+#######
+server answer:the nothing encrypted is yd. brydcbi
+What is icaby ygpyn. decrypted?
+:
+Cleartext is:giant turtle
+Correct!
+Round 3. Give me some text:
+#######
+server answer:the nothing encrypted is yd. brydcbi
+What is ,.njrm. ayp.fg decrypted?
+:
+Cleartext is:welcome atreyu
+Correct!
+Round 4. Give me some text:
+#######
+server answer:the nothing encrypted is ghf kyghukd
+What is sykg typdfg alpjk decrypted?
+:
+Cleartext is:dont forget auryn
+Correct!
+Round 5. Give me some text:
+#######
+server answer:the nothing encrypted is yd. brydcbi
+What is yd. brydcbi decrypted?
+:
+Cleartext is:the nothing
+Correct!
+Round 6. Give me some text:
+#######
+server answer:the nothing encrypted is yd. brydcbi
+What is c r,. frg decrypted?
+:
+Cleartext is:i owe you
+Correct!
+Round 7. Give me some text:
+#######
+server answer:the nothing encrypted is ghf kyghukd
+What is sykg typdfg alpjk decrypted?
+:
+Cleartext is:dont forget auryn
+Correct!
+Round 8. Give me some text:
+#######
+server answer:the nothing encrypted is yd. brydcbi
+What is yd. rpajn. decrypted?
+:
+Cleartext is:the oracle
+Correct!
+Round 9. Give me some text:
+#######
+server answer:the nothing encrypted is ghf kyghukd
+What is wficymf agpfjl decrypted?
+:
+Cleartext is:welcome atreyu
+Correct!
+Round 10. Give me some text:
+#######
+server answer:the nothing encrypted is ghf kyghukd
+What is gpj rwummukd decrypted?
+:
+Cleartext is:try swimming
+Correct!
+Round 11. Give me some text:
+#######
+server answer:the nothing encrypted is ghf kyghukd
+What is tpadmfkgaguyk decrypted?
+:
+Cleartext is:fragmentation
+Correct!
+Round 12. Give me some text:
+#######
+server answer:the nothing encrypted is ghf kyghukd
+What is ghf kyghukd decrypted?
+:
+Cleartext is:the nothing
+Correct!
+Round 13. Give me some text:
+#######
+server answer:the nothing encrypted is ghf kyghukd
+What is duakg glpgif decrypted?
+:
+Cleartext is:giant turtle
+Correct!
+Round 14. Give me some text:
+#######
+server answer:the nothing encrypted is ghf kyghukd
+What is ghf kyghukd decrypted?
+:
+Cleartext is:the nothing
+Correct!
+Round 15. Give me some text:
+#######
+server answer:the nothing encrypted is ghf kyghukd
+What is tpadmfkgaguyk decrypted?
+:
+Cleartext is:fragmentation
+Correct!
+Round 16. Give me some text:
+#######
+server answer:the nothing encrypted is ghf kyghukd
+What is ghf kyghukd decrypted?
+:
+Cleartext is:the nothing
+Correct!
+Round 17. Give me some text:
+#######
+server answer:the nothing encrypted is yd. brydcbi
+What is ypf o,cmmcbi decrypted?
+:
+Cleartext is:try swimming
+Correct!
+Round 18. Give me some text:
+#######
+server answer:the nothing encrypted is ghf kyghukd
+What is tpadmfkgaguyk decrypted?
+:
+Cleartext is:fragmentation
+Correct!
+Round 19. Give me some text:
+#######
+server answer:the nothing encrypted is ghf kyghukd
+What is u ywf jyl decrypted?
+:
+Cleartext is:i owe you
+Correct!
+Round 20. Give me some text:
+#######
+server answer:the nothing encrypted is yd. brydcbi
+What is yd. rpajn. decrypted?
+:
+Cleartext is:the oracle
+Correct!
+Round 21. Give me some text:
+#######
+server answer:the nothing encrypted is yd. brydcbi
+What is ,.njrm. ayp.fg decrypted?
+:
+Cleartext is:welcome atreyu
+Correct!
+Round 22. Give me some text:
+#######
+server answer:the nothing encrypted is ghf kyghukd
+What is ghf kyghukd decrypted?
+:
+Cleartext is:the nothing
+Correct!
+Round 23. Give me some text:
+#######
+server answer:the nothing encrypted is yd. brydcbi
+What is c r,. frg decrypted?
+:
+Cleartext is:i owe you
+Correct!
+Round 24. Give me some text:
+#######
+server answer:the nothing encrypted is yd. brydcbi
+What is yd. rpajn. decrypted?
+:
+Cleartext is:the oracle
+Correct!
+Round 25. Give me some text:
+#######
+server answer:the nothing encrypted is yd. brydcbi
+What is mf ngjtepairb decrypted?
+:
+Cleartext is:my luckdragon
+Correct!
+Round 26. Give me some text:
+#######
+server answer:the nothing encrypted is yd. brydcbi
+What is erby urpi.y agpfb decrypted?
+:
+Cleartext is:dont forget auryn
+Correct!
+Round 27. Give me some text:
+#######
+server answer:the nothing encrypted is ghf kyghukd
+What is gpj rwummukd decrypted?
+:
+Cleartext is:try swimming
+Correct!
+Round 28. Give me some text:
+#######
+server answer:the nothing encrypted is ghf kyghukd
+What is duakg glpgif decrypted?
+:
+Cleartext is:giant turtle
+Correct!
+Round 29. Give me some text:
+#######
+server answer:the nothing encrypted is ghf kyghukd
+What is sykg typdfg alpjk decrypted?
+:
+Cleartext is:dont forget auryn
+Correct!
+Round 30. Give me some text:
+#######
+server answer:the nothing encrypted is ghf kyghukd
+What is pfasukd ur sakdfpylpr decrypted?
+:
+Cleartext is:reading is dangerours
+Correct!
+Round 31. Give me some text:
+#######
+server answer:the nothing encrypted is ghf kyghukd
+What is u ywf jyl decrypted?
+:
+Cleartext is:i owe you
+Correct!
+Round 32. Give me some text:
+#######
+server answer:the nothing encrypted is yd. brydcbi
+What is yd. rpajn. decrypted?
+:
+Cleartext is:the oracle
+Correct!
+Round 33. Give me some text:
+#######
+server answer:the nothing encrypted is ghf kyghukd
+What is mj ilcespadyk decrypted?
+:
+Cleartext is:my luckdragon
+Correct!
+Round 34. Give me some text:
+#######
+server answer:the nothing encrypted is yd. brydcbi
+What is mrrb jdcne decrypted?
+:
+Cleartext is:moon child
+Correct!
+Round 35. Give me some text:
+#######
+server answer:the nothing encrypted is yd. brydcbi
+What is erby urpi.y agpfb decrypted?
+:
+Cleartext is:dont forget auryn
+Correct!
+Round 36. Give me some text:
+#######
+server answer:the nothing encrypted is yd. brydcbi
+What is yd. rpajn. decrypted?
+:
+Cleartext is:the oracle
+Correct!
+Round 37. Give me some text:
+#######
+server answer:the nothing encrypted is ghf kyghukd
+What is ravf ghf ;pukcfrr decrypted?
+:
+Cleartext is:save the princess
+Correct!
+Round 38. Give me some text:
+#######
+server answer:the nothing encrypted is yd. brydcbi
+What is imrpto jrrn decrypted?
+:
+Cleartext is:gmorks cool
+Correct!
+Round 39. Give me some text:
+#######
+server answer:the nothing encrypted is yd. brydcbi
+What is yd. rpajn. decrypted?
+:
+Cleartext is:the oracle
+Correct!
+Round 40. Give me some text:
+#######
+server answer:the nothing encrypted is ghf kyghukd
+What is agpfjl vr dmype decrypted?
+:
+Cleartext is:atreyu vs gmork
+Correct!
+Round 41. Give me some text:
+#######
+server answer:the nothing encrypted is ghf kyghukd
+What is duakg glpgif decrypted?
+:
+Cleartext is:giant turtle
+Correct!
+Round 42. Give me some text:
+#######
+server answer:the nothing encrypted is ghf kyghukd
+What is ravf ghf ;pukcfrr decrypted?
+:
+Cleartext is:save the princess
+Correct!
+Round 43. Give me some text:
+#######
+server answer:the nothing encrypted is yd. brydcbi
+What is mrrb jdcne decrypted?
+:
+Cleartext is:moon child
+Correct!
+Round 44. Give me some text:
+#######
+server answer:the nothing encrypted is ghf kyghukd
+What is wficymf agpfjl decrypted?
+:
+Cleartext is:welcome atreyu
+Correct!
+Round 45. Give me some text:
+#######
+server answer:the nothing encrypted is ghf kyghukd
+What is u ywf jyl decrypted?
+:
+Cleartext is:i owe you
+Correct!
+Round 46. Give me some text:
+#######
+server answer:the nothing encrypted is ghf kyghukd
+What is tpadmfkgaguyk decrypted?
+:
+Cleartext is:fragmentation
+Correct!
+Round 47. Give me some text:
+#######
+server answer:the nothing encrypted is yd. brydcbi
+What is yd. rpajn. decrypted?
+:
+Cleartext is:the oracle
+Correct!
+Round 48. Give me some text:
+#######
+server answer:the nothing encrypted is yd. brydcbi
+What is imrpto jrrn decrypted?
+:
+Cleartext is:gmorks cool
+Correct!
+Round 49. Give me some text:
+#######
+server answer:the nothing encrypted is yd. brydcbi
+What is oak. yd. lpcbj.oo decrypted?
+:
+Cleartext is:save the princess
+Correct!
+Round 50. Give me some text:
+#######
+server answer:the nothing encrypted is ghf kyghukd
+What is ravf ghf ;pukcfrr decrypted?
+:
+Cleartext is:save the princess
+Correct!
+Round complete!
+TUCTF{5omething_is_b3tt3r_th4n_n0thing}
+------------------------------------------
+You have run into a bad place...
+This is level 4, the swamps of sadness.
+Round 1. Give me some text:
