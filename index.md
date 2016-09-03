@@ -6,15 +6,14 @@ tagline: no offense to the rest of the universe
 
 ## Intro
 
-Hi all,
-This is some kind of website. Up to now it is all messy and it will
-probably remain like this.  
+Hi all,  
+I am a PhD student writing mainly about math, finance, programming,
+and other stuff i find interesting.  
+This is my blog.
 Feel free to look around.
 
-
-
 ## Posts
- Here is a list of posts.
+Here is a list of posts.
 
 <ul class="posts">
   {% for post in site.posts %}
