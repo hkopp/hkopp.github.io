@@ -21,3 +21,11 @@ Feel free to look around.
     <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
+
+## Other links
+
+<a href="http://quantocracy.com">
+<img src="{{ site.url }}/assets/index/quantocracy-badge-130.png" border="0">
+</a>  
+Quantocracy is a news aggregator of quant blogs and the way to go if
+you want to learn what is currently going on in the quant scene.
