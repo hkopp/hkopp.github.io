@@ -7,9 +7,8 @@ tagline: no offense to the rest of the universe
 ## Intro
 
 Hi all,  
-I am a PhD student writing mainly about math, finance, programming,
+Welcome to my blog where I write mainly about math, finance, programming,
 and other stuff i find interesting.  
-This is my blog.
 Feel free to look around.
 
 ## Posts
