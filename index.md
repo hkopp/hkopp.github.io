@@ -22,8 +22,11 @@ Here is a list of posts.
 
 ## Other links
 
-<a href="http://quantocracy.com">
-<img src="{{ site.url }}/assets/index/quantocracy-badge-130.png" border="0">
-</a>  
-Quantocracy is a news aggregator of quant blogs and the way to go if
-you want to learn what is currently going on in the quant scene.
+- <a href="http://quantocracy.com">Quantocracy</a> is a news
+  aggregator of quant blogs and the way to go if you want to learn
+  what is currently going on in the quant scene.
+- <a href="https://www.quantstart.com">Quantstart</a> is a
+  high-quality low-quantity site about trading strategies.
+- <a href="https://uss.informatik.uni-ulm.de/">Ulm Security
+  Sparrows</a> are a bunch of computer security enthusiasts at my
+  university.
