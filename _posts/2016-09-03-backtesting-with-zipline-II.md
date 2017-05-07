@@ -1,7 +1,7 @@
 ---
 layout: post
 category :
-tags : [trading, python]
+tags : [trading, python, zipline]
 ---
 {% include math %}
 
