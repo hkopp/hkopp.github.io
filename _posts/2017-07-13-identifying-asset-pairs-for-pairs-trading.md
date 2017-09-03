@@ -78,7 +78,7 @@ for stationarity.
 ## Code
 For this code I have set up a Jupyter notebook and converted it to
 markdown. If you are interested in toying around with the data
-yourself you can download the full notebook [here]({{ site.url }}/assets/identifying_asset_pairs_for_pairs_trading/pairs_trading.ipynb).
+yourself you can download the full notebook [here]({{ site.url }}/assets/identifying-asset-pairs-for-pairs-trading/pairs_trading.ipynb).
 We test cointegration between the stock prices of Coca Cola and Pepsi,
 since they may be exposed to the same economical factors.
 
@@ -198,7 +198,7 @@ plt.show()
 ```
 
 
-![png]({{ site.url }}/assets/identifying_asset_pairs_for_pairs_trading/pairs_trading_7_0.png)
+![png]({{ site.url }}/assets/identifying-asset-pairs-for-pairs-trading/pairs_trading_7_0.png)
 
 
 We fit a line with linear regression
@@ -235,7 +235,7 @@ plt.show()
 ```
 
 
-![png]({{ site.url }}/assets/identifying_asset_pairs_for_pairs_trading/pairs_trading_11_0.png)
+![png]({{ site.url }}/assets/identifying-asset-pairs-for-pairs-trading/pairs_trading_11_0.png)
 
 
 Now we compute the term e, which is the residue or the error term.
@@ -249,7 +249,7 @@ plt.show()
 ```
 
 
-![png]({{ site.url }}/assets/identifying_asset_pairs_for_pairs_trading/pairs_trading_13_0.png)
+![png]({{ site.url }}/assets/identifying-asset-pairs-for-pairs-trading/pairs_trading_13_0.png)
 
 
 The plot looks okay, but it is not clear it if is really stationary.
@@ -313,7 +313,7 @@ plt.show()
 ```
 
 
-![png]({{ site.url }}/assets/identifying_asset_pairs_for_pairs_trading/pairs_trading_19_0.png)
+![png]({{ site.url }}/assets/identifying-asset-pairs-for-pairs-trading/pairs_trading_19_0.png)
 
 
 We can see that they have common jumps, so we can go on to the next step: drawing a scatterplot.
@@ -326,7 +326,7 @@ plt.show()
 ```
 
 
-![png]({{ site.url }}/assets/identifying_asset_pairs_for_pairs_trading/pairs_trading_21_0.png)
+![png]({{ site.url }}/assets/identifying-asset-pairs-for-pairs-trading/pairs_trading_21_0.png)
 
 
 This fairly looks like a line. Perfect. So we fit a line.
@@ -358,7 +358,7 @@ plt.show()
 ```
 
 
-![png]({{ site.url }}/assets/identifying_asset_pairs_for_pairs_trading/pairs_trading_24_0.png)
+![png]({{ site.url }}/assets/identifying-asset-pairs-for-pairs-trading/pairs_trading_24_0.png)
 
 
 Looks great. Now we compute the error and test if it is mean-reverting.
@@ -371,7 +371,7 @@ plt.show()
 ```
 
 
-![png]({{ site.url }}/assets/identifying_asset_pairs_for_pairs_trading/pairs_trading_26_0.png)
+![png]({{ site.url }}/assets/identifying-asset-pairs-for-pairs-trading/pairs_trading_26_0.png)
 
 
 
