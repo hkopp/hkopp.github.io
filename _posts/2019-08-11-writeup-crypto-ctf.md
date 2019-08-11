@@ -21,7 +21,20 @@ somewhere. This flag can be submitted in the web-interface and your
 team gets points.
 
 This post contains my writeup. If you want to play around with the
-challenges, you can find them [here]({{ site.url }}/assets/writeup-crypto-ctf/challenges/).
+challenges, you can find them at the following links.
+
+- [alone in the dark]({{ site.url }}/assets/writeup-crypto-ctf/challenges/alone_in_the_dark_94ff86de52959c8800ff062a04a29460a013f916.txz)
+- [bad zero]({{ site.url }}/assets/writeup-crypto-ctf/challenges/bad_zero_f4b9b5f65838a7a80281165f66cfd5426bf19e28.txz)
+- [cat sharing]({{ site.url }}/assets/writeup-crypto-ctf/challenges/cat_sharing_51f8e5e81be6c99b55202b0295a62d853fef1803.txz)
+- [clever girl]({{ site.url }}/assets/writeup-crypto-ctf/challenges/clever_girl_new_33a43871dd9442e35ea1b738c3abdccc00e76ec1.txz)
+- [fast speedy]({{ site.url }}/assets/writeup-crypto-ctf/challenges/fast_speedy_a2868f39722965b77685fd4615dafffaf22688a4.txz)
+- [galof]({{ site.url }}/assets/writeup-crypto-ctf/challenges/galof_11cdf881ca88298b718eba2155ab8a4e3def74b6.txz)
+- [midnight moon]({{ site.url }}/assets/writeup-crypto-ctf/challenges/midnight_moon_13ea717e8d4161544ed0cf4e1239a04cbfde4cce.txz)
+- [oliver twist]({{ site.url }}/assets/writeup-crypto-ctf/challenges/oliver_twist_2701ed05645dfebd0534ad0fd0ece53530f5c15a.txz)
+- [roXen]({{ site.url }}/assets/writeup-crypto-ctf/challenges/roXen_5b1a5ebda92838cd2f931cca92974ba957e6ced2.txz)
+- [stuff]({{ site.url }}/assets/writeup-crypto-ctf/challenges/stuff_73ada86861bb1773151df868dafb230ae09807f5.txz)
+- [super natural]({{ site.url }}/assets/writeup-crypto-ctf/challenges/super_natural_f1ae1f67251a0e506bba6702291e95da0423badb.txz)
+- [time capsule]({{ site.url }}/assets/writeup-crypto-ctf/challenges/time_capsule_aa5d041f6d3bef8d9977d6bd0e2cfeab322c4a39.txz)
 
 ## Decode Me
 
