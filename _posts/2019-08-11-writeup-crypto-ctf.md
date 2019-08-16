@@ -21,7 +21,8 @@ somewhere. This flag can be submitted in the web-interface and your
 team gets points.
 
 This post contains my writeup. If you want to play around with the
-challenges, you can find them at the following links.
+challenges, you can find them at the following links. If you want to
+read other writeups, go [here](https://ctftime.org/event/806/tasks/).
 
 - [alone in the dark]({{ site.url }}/assets/writeup-crypto-ctf/challenges/alone_in_the_dark_94ff86de52959c8800ff062a04a29460a013f916.txz)
 - [bad zero]({{ site.url }}/assets/writeup-crypto-ctf/challenges/bad_zero_f4b9b5f65838a7a80281165f66cfd5426bf19e28.txz)
@@ -71,6 +72,16 @@ not work.
     decodeme_debase64: data
 
 And then i was stuck.
+
+After the ctf was over I read
+[some](https://ctftime.org/writeup/16108) [writeups](https://bananamafia.dev/post/cryptoctf-1-decodeme/).
+Maybe I should have seen that :K is a very awkward smiley. Then, I
+may have realized, that the vigenere key is not
+"MHHHHHHHHHHHHHHHHHHHHHHHHHHHH", but "H" for upper case letters and
+"M" for lower case letters. As I knew that the flags start with
+"CCTF", I could have base64-decoded that part and thus recover the
+key for the numbers. Putting these three keys together, gives the
+correct decryption keys.
 
 ## Permutations Game
 
