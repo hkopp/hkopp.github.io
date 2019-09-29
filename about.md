@@ -3,9 +3,9 @@ layout: page
 title: About
 ---
 
-I am a PhD student working on cryptography, computer security, and privacy.
 
-I studied math but now I am a computer scientist.
+I studied math and did my PhD in a mix of cryptography, computer security, and privacy.
+I am currently working as a so-called security consultant, as that sounds way more professional than "hacker".
 My other interests include music, sailing, and more stuff.
 
 If you want to contact me, you can write me at hkopp22 (at) yahoo (dot) de.
