@@ -54,6 +54,13 @@ Additionally, you want to have an emulator (such as fceux or nestopia)
 in order to test your code.
 I will talk about each of the three areas in the following paragraphs.
 
+[Edit 2020-03-28: Actually, the emulator part is not trivial either.
+While there are a large number of emulators
+([Nestopia](http://0ldsk00l.ca/nestopia/), [fceux](http://www.fceux.com/web/), [Mesen](https://www.mesen.ca/)),
+not all of them offer debugging support. The Windows version of fceux
+(which works in wine) has debug support. Mesen also offers debugging
+functionality.]
+
 ### Code
 The NES was originally programmed in 6502 assembler. I'd like to think
 that there was a bunch of tooling involved, but all of these original
@@ -180,6 +187,10 @@ NES. I did not find one. Maybe I can write it by myself.
 In fact, I should probably admit at this point, that I was unable to
 successfully draw an image for NES except the most basic stuff, such
 as a black background.
+
+[Edit 2020-03-28: I was able to draw an image. My current workflow
+uses the [NES Screen
+Tool](https://shiru.untergrund.net/software.shtml).]
 
 Additionally to the background images, which I explained above, there
 are also sprites. You can think of these as "floating stuff". I will
