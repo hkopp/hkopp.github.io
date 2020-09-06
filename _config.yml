@@ -15,7 +15,7 @@ author :
   name : Hkopp #Name Lastname
   email : blah@email.test
   github : hkopp
-  #twitter : username
+  # twitter : username
   #feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
