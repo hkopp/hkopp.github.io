@@ -17,6 +17,9 @@ Feel free to look around.
 - [Bandcamp](https://uftah.bandcamp.com/) the same music on another platform.
 - [Instagram](https://www.instagram.com/uftah.music/) again mainly for music.
 
+If you want to get notifications on new posts you can use
+[RSS](http://hkopp.github.io/rss.xml) or [Atom
+RSS](http://hkopp.github.io/atom.xml).
 
 ## Posts
 My blog posts are as follows.
