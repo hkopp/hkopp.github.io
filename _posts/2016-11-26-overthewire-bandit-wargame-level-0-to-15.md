@@ -1,6 +1,6 @@
 ---
 layout: post
-category : walkthrough
+category : Walkthrough
 tags : [hacking, ctf, spoiler, bandit, writeup]
 ---
 

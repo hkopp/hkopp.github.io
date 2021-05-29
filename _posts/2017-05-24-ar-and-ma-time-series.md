@@ -1,6 +1,6 @@
 ---
 layout: post
-category : lesson
+category : Lesson
 tags : [pairs trading, python, programming, math, stochastic]
 ---
 {% include math %}
