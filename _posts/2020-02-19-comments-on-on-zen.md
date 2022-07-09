@@ -1,6 +1,6 @@
 ---
 layout: post
-category :
+category: Philosophy
 tags : [mysticism, philosophy]
 ---
 

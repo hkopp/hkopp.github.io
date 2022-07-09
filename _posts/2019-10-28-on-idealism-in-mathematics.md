@@ -1,6 +1,6 @@
 ---
 layout: post
-category :
+category: Philosophy
 tags : [philosophy, math, easy, programming]
 ---
 

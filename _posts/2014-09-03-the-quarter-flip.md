@@ -1,6 +1,6 @@
 ---
 layout: post
-category : Brainteaser
+category : Recreational Math
 tagline: "a quiz with coins"
 tags : [brainteaser, easy, stochastic]
 ---

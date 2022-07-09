@@ -1,6 +1,6 @@
 ---
 layout: post
-category : Messing around
+category: Lesson
 tags : [trading, derivative pricing, math, python]
 ---
 {% include math %}

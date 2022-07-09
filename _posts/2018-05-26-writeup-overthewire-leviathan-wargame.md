@@ -1,6 +1,6 @@
 ---
 layout: post
-category : Walkthrough
+category: Walkthrough
 tags : [hacking, ctf, spoiler, leviathan, writeup]
 ---
 

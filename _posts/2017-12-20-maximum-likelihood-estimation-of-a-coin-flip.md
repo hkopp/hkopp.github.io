@@ -1,6 +1,6 @@
 ---
 layout: post
-category : Lesson
+category: Recreational Math
 tags : [stochastic, easy]
 ---
 {% include math %}

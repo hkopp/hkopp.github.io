@@ -1,6 +1,6 @@
 ---
 layout: post
-category : Computer Trick
+category: Recreational Math
 tags : [math, art, programming, python]
 ---
 

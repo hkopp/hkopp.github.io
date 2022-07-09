@@ -1,6 +1,6 @@
 ---
 layout: post
-category : Lesson
+category: Lesson
 tags : [economics, theory, easy, rant]
 ---
 {% include math %}

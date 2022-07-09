@@ -1,6 +1,6 @@
 ---
 layout: post
-category : lesson
+category: Music
 tags : [music]
 ---
 

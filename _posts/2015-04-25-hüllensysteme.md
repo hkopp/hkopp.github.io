@@ -1,6 +1,6 @@
 ---
 layout: post
-category : Brainteaser
+category : Recreational Math
 tags : [math, set theory]
 ---
 {% include math %}

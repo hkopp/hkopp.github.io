@@ -1,6 +1,6 @@
 ---
 layout: post
-category : Lesson
+category : Recreational Math
 tags : [math, theory]
 ---
 {% include math %}

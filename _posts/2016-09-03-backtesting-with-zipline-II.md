@@ -1,6 +1,6 @@
 ---
 layout: post
-category : Messing around
+category: Messing around
 tags : [trading, python, zipline]
 ---
 {% include math %}

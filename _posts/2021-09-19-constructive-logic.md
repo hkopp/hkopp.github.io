@@ -1,6 +1,6 @@
 ---
 layout: post
-category : lesson
+category: Philosophy
 tags : [math, philosophy, elementary, logic]
 ---
 

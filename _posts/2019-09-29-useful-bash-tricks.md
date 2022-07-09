@@ -1,6 +1,6 @@
 ---
 layout: post
-category : Computer Trick
+category: Computer Trick
 tags : [bash,programming]
 ---
 
