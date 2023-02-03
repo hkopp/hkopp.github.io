@@ -73,7 +73,7 @@ decoded string as a function and executes it.
 But what does the string
 `"eb1eb801000000bf010000005eba0d0000000f05b83c000000bf000000000f05e8ddffffff48656c6c6f2c20776f726c64210a"`
 interpreted as function do? Well, it prints `Hello, World!`.
-You can see for yourself by writing it to a file and disassembling it, e.g, with radare or objdump (`objdump -b binary -D -m i386 Opcodes.bin`).
+You can see for yourself by writing it to a file and disassembling it, e.g, with radare or objdump (`objdump -b binary -D -m i386:x86-64 -M intel Opcodes.bin`).
 
 But why would anyone program such a monster, you may ask?
 Usually programming patterns such as this can be used to load more functionality at run-time (in contrast to having the functionality already baked in at compile-time).
