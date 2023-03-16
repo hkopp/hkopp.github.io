@@ -16,8 +16,10 @@ The CRTO is a pretty novel certificate in the area of IT security and
 especially red teaming (in contrast to penetration testing). It is
 considered a beginner certificate as it is very general. It covers
 phishing, Kerberos, Active Directory misconfigurations, Windows
-privilege escalation and much more. It is not a beginner certificate
-because it is easy. In fact, you need to know some stuff, like how to
+privilege escalation and much more. However, if you think it is easy,
+due to the fact that it is considered a beginner certificate then you
+are wrong.
+In fact, you need to know quite some stuff, like how to
 use a command line and understand a lot of the things that may be
 considered basic in IT security. Still, when i was back at university,
 I would probably have failed it.
