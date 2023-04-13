@@ -1,6 +1,6 @@
 ---
 layout: post
-category : Lesson
+category : Recreational Math
 tags : [theory, math, german, easy]
 ---
 
