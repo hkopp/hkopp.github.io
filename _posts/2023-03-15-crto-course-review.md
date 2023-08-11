@@ -120,7 +120,7 @@ worked.
 One attack was especially flaky and i needed to perform it multiple
 times until it worked. In fact, when it did not work the first time i
 thought that it did not work at all and tried different things
-(including talking a walk) for six hours.
+(including taking a walk) for six hours.
 
 My DNS beacons did not work at all. I suspect that the domains were
 not registered in the DNS server, but in the end i was fine without
