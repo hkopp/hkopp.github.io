@@ -22,7 +22,7 @@ write this as $$0=E(Y)=\int_\mathbb{R} x p_Y(x) dx$$ for some function
 $$p_Y$$, which is not zero everywhere?
 
 ## Distributions
-It turns out we can kind of can do this. There is the so-called dirac
+It turns out that we can kind of do this. There is the so-called dirac
 distribution (often wrongly called dirac function) $$\delta$$ which is a gadget which is zero everywhere,
 except at $$1$$ where its value is infinity. Further, integrating
 yields $$\int_\mathbb{R} \delta(x) dx=1$$.

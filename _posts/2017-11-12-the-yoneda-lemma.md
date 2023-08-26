@@ -59,7 +59,7 @@ $$
 \begin{align*}
 A^\circ: \mathcal{C}&\rightarrow Set\\
 B&\mapsto Hom(B,A)\\
-(B\stackrel{f}{\rightarrow} B')&\mapsto (Hom(B,A)\stackrel{\_\circ f}{\rightarrow}Hom(B',A))
+(B\stackrel{f}{\rightarrow} B')&\mapsto (Hom(B',A)\stackrel{\_\circ f}{\rightarrow}Hom(B,A))
 \end{align*}
 $$\\
 where Set is the category of sets.
