@@ -93,7 +93,7 @@ $ r2 -Ad selfptrace
 I am traced(2888) Process exited with status=0x100
 ```
 
-# The Same Trick in Assemby
+# The Same Trick in Assembly
 As we are 1337 coderz, we can do the same trick directly in assembly.
 
 {% highlight nasm %}
