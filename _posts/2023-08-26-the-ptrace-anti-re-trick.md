@@ -1,7 +1,7 @@
 ---
 layout: post
 category : walkthrough
-tags : [hacking, programming]
+tags : [hacking, programming, malwaredev]
 ---
 
 # Introduction
