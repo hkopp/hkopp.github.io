@@ -30,7 +30,7 @@ because Prusik was a nazi. Instead we called it a caterpillar.
 One of the goals of the climbing was to make it as cheap as possible,
 so everyone could participate. Consequently, there was not much else
 than two caterpillars and a [figure eight
-descender](https://en.wikipedia.org/wiki/Figure_8_(climbing). This
+descender](https://en.wikipedia.org/wiki/Figure_8_(climbing)). This
 made it very tedious and did not feel as secure as the [Grigri](https://en.wikipedia.org/wiki/Grigri)
 I was accustomed to. 
 I wondered if i was really at the correct place. There were a lot of
