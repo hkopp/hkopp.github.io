@@ -62,7 +62,7 @@ the following polynomials for all $$i=0, ..., 80$$.
 
 $$
 \begin{align*}
-(x_i-1)\cdot(x_i-2)\cdot(x_i-3)\cdot(x_i-4)\cdot(x_i-5)\cdot(x_i-6)\cdot(x_i-7)\cdot(x_i-8)\cdot(x_i-9)
+F_i=(x_i-1)\cdot(x_i-2)\cdot(x_i-3)\cdot(x_i-4)\cdot(x_i-5)\cdot(x_i-6)\cdot(x_i-7)\cdot(x_i-8)\cdot(x_i-9)
 \end{align*}
 $$
 
@@ -73,6 +73,16 @@ can only be used once in each column/row, and in each block.
 This can be done by defining that the sum of all columns/rows and of
 each block should be $$45$$. Its product should be $$362880$$. And with these
 two conditions we have no duplicate numbers.
+
+> Addendum from 2024-03-08: This is not true. Matthias Paulsen
+> informed me by mail that these two properties do not uniquely
+> determine that each number is used exactly once. Take as example the
+> numbers 1, 2, 4, 4, 4, 5, 7, 9, 9. Then their sum is also $$45$$
+> and their product is $$362880$$. Thus, my sudoku solver may yield
+> more (incorrect) solutions. Thanks, Matthias.
+> Instead a correct set of polynomials is $$G_ij=(F_i/F_j)/(x_i-x_j)$$
+> for all $$i, j$$, with $$i\not =j$$ and $$x_i$$ and $$x_j$$ in the same block
+> and row. However, this leads to my program becoming unbearably slow.
 
 As a last step, some of the cells in the sudoku are already filled
 out. We call the numbers there $$a_j$$, where $$J\subset\{1, ...,
@@ -163,6 +173,50 @@ for i in [0,3,6,27,30,33,54,57,60]:
 # Product of numbers in blocks = 362880
 for i in [0,3,6,27,30,33,54,57,60]:
   F.append(x[i]*x[i+1]*x[i+2]*x[i+9]*x[i+10]*x[i+11]*x[i+18]*x[i+19]*x[i+20]-362880)
+
+
+# Addendum from 2024-03-08: As already written above, these
+# polynomials are not enough. To restrict the Sudoku solver to only
+# output valid solutions, the following equations can be used instead
+# of the line and block condition. Note that the program becomes
+# unbearably slow.
+#
+# def G(y):
+#     for xi in y:
+#         fi=(xi-1)*(xi-2)*(xi-3)*(xi-4)*(xi-5)*(xi-6)*(xi-7)*(xi-8)*(xi-9)
+#         for xj in y:
+#             if xi != xj:
+#                 fj=(xj-1)*(xj-2)*(xj-3)*(xj-4)*(xj-5)*(xj-6)*(xj-7)*(xj-8)*(xj-9)
+#                 F.append((fi-fj)/(xi-xj))
+#
+# # all lines and blocks that contain different numbers
+# G((x[0],x[1],x[2],x[3],x[4],x[5],x[6],x[7],x[8]))
+# G((x[9],x[10],x[11],x[12],x[13],x[14],x[15],x[16],x[17]))
+# G((x[18],x[19],x[20],x[21],x[22],x[23],x[24],x[25],x[26]))
+# G((x[27],x[28],x[29],x[30],x[31],x[32],x[33],x[34],x[35]))
+# G((x[36],x[37],x[38],x[39],x[40],x[41],x[42],x[43],x[44]))
+# G((x[45],x[46],x[47],x[48],x[49],x[50],x[51],x[52],x[53]))
+# G((x[54],x[55],x[56],x[57],x[58],x[59],x[60],x[61],x[62]))
+# G((x[63],x[64],x[65],x[66],x[67],x[68],x[69],x[70],x[71]))
+# G((x[72],x[73],x[74],x[75],x[76],x[77],x[78],x[79],x[80]))
+# G((x[0],x[9],x[18],x[27],x[36],x[45],x[54],x[63],x[72]))
+# G((x[1],x[10],x[19],x[28],x[37],x[46],x[55],x[64],x[73]))
+# G((x[2],x[11],x[20],x[29],x[38],x[47],x[56],x[65],x[74]))
+# G((x[3],x[12],x[21],x[30],x[39],x[48],x[57],x[66],x[75]))
+# G((x[4],x[13],x[22],x[31],x[40],x[49],x[58],x[67],x[76]))
+# G((x[5],x[14],x[23],x[32],x[41],x[50],x[59],x[68],x[77]))
+# G((x[6],x[15],x[24],x[33],x[42],x[51],x[60],x[69],x[78]))
+# G((x[7],x[16],x[25],x[34],x[43],x[52],x[61],x[70],x[79]))
+# G((x[8],x[17],x[26],x[35],x[44],x[53],x[62],x[71],x[80]))
+# G((x[0],x[1],x[2],x[9],x[10],x[11],x[18],x[19],x[20]))
+# G((x[3],x[4],x[5],x[12],x[13],x[14],x[21],x[22],x[23]))
+# G((x[6],x[7],x[8],x[15],x[16],x[17],x[24],x[25],x[26]))
+# G((x[27],x[28],x[29],x[36],x[37],x[38],x[45],x[46],x[47]))
+# G((x[30],x[31],x[32],x[39],x[40],x[41],x[48],x[49],x[50]))
+# G((x[33],x[34],x[35],x[42],x[43],x[44],x[51],x[52],x[53]))
+# G((x[54],x[55],x[56],x[63],x[64],x[65],x[72],x[73],x[74]))
+# G((x[57],x[58],x[59],x[66],x[67],x[68],x[75],x[76],x[77]))
+# G((x[60],x[61],x[62],x[69],x[70],x[71],x[78],x[79],x[80]))
 
 # Fix points
 # Due to how the Buchberger algorithm for computing Gröbner bases
