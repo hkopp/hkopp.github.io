@@ -1,7 +1,7 @@
 ---
 layout: post
-category : Lesson
-tags : [programming, software design, trading, infrastructure]
+category: Quantitative Finance
+tags: [programming, software design, trading, infrastructure]
 ---
 
 ## Introduction

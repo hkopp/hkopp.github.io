@@ -1,7 +1,7 @@
 ---
 layout: post
-category : Lesson
-tags : [math, theory, category theory]
+category: Math
+tags: [math, theory, category theory]
 ---
 {% include math %}
 

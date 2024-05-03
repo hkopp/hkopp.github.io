@@ -1,7 +1,7 @@
 ---
 layout: post
-category: Lesson
-tags : [programming, easy, nes]
+category: Computer Stuff
+tags: [programming, easy, nes]
 ---
 
 ## Introduction

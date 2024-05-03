@@ -1,7 +1,7 @@
 ---
 layout: post
-category: Lesson
-tags : [chess, programming, software design]
+category: Misc
+tags: [chess, programming, software design]
 ---
 
 ## Intro

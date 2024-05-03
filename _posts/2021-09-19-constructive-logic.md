@@ -1,7 +1,7 @@
 ---
 layout: post
 category: Philosophy
-tags : [math, philosophy, elementary, logic]
+tags: [math, philosophy, elementary, logic]
 ---
 
 ## Introduction

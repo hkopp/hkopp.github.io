@@ -1,7 +1,7 @@
 ---
 layout: post
-category : Messing around
-tags : [programming, J, elementary]
+category: Computer Stuff
+tags: [programming, J, elementary]
 ---
 {% include math %}
 

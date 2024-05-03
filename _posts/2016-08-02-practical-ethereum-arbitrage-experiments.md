@@ -1,7 +1,7 @@
 ---
 layout: post
-category : Messing around
-tags : [trading, python]
+category: Computer Stuff
+tags: [trading, python]
 ---
 {% include math %}
 

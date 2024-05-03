@@ -1,7 +1,7 @@
 ---
 layout: post
-category: Lesson
-tags : [stochastic, math, theory]
+category: Math
+tags: [stochastic, math, theory]
 ---
 {% include math %}
 

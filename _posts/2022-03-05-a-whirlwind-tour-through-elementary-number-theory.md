@@ -1,7 +1,7 @@
 ---
 layout: post
-category: Lesson
-tags : [math, whirlwind]
+category: Math
+tags: [math, whirlwind]
 ---
 {% include math %}
 

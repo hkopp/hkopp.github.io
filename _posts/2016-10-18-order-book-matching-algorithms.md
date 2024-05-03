@@ -1,7 +1,7 @@
 ---
 layout: post
-category : Lesson
-tags : [trading, infrastructure]
+category: Quantitative Finance
+tags: [trading, infrastructure]
 ---
 {% include math %}
 

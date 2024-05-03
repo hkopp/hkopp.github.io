@@ -1,7 +1,7 @@
 ---
 layout: post
 category: Philosophy
-tags : [philosophy, math, easy, programming]
+tags: [philosophy, math, easy, programming]
 ---
 
 {% include math %}

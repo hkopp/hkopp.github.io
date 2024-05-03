@@ -1,7 +1,7 @@
 ---
 layout: post
-category : Computer Trick
-tags : [python,ubuntu,rant]
+category: Computer Stuff
+tags: [python,ubuntu,rant]
 ---
 ## Broken Pip
 So I managed upgrading Ubuntu from 12.04 to 14.04 and somehow even fixed some issues with tex by typing obscure commands in my shell.

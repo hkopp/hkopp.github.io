@@ -1,7 +1,7 @@
 ---
 layout: post
-category : Lesson
-tags : [poker, math]
+category: Misc
+tags: [poker, math]
 ---
 
 {% include math %}

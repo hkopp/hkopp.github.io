@@ -1,7 +1,7 @@
 ---
 layout: post
-category : Lesson
-tags : [pairs trading, python, programming, math, stochastic]
+category: Quantitative Finance
+tags: [pairs trading, python, programming, math, stochastic]
 ---
 {% include math %}
 

@@ -1,7 +1,7 @@
 ---
 layout: post
-category : Lesson
-tags : [trading]
+category: Quantitative Finance
+tags: [trading]
 ---
 
 ## Introduction

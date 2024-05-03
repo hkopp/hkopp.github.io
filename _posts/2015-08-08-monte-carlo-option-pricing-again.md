@@ -1,7 +1,7 @@
 ---
 layout: post
-category : Lesson
-tags : [math, stochastic, numerical analysis, python, derivative pricing]
+category: Math
+tags: [math, stochastic, numerical analysis, python, derivative pricing]
 ---
 {% include math %}
 

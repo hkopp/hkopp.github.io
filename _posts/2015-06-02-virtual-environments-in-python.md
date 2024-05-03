@@ -1,7 +1,7 @@
 ---
 layout: post
-category : Computer Trick
-tags : [python,rant]
+category: Computer Stuff
+tags: [python,rant]
 ---
 In one of my last posts I installed python packages with pip and the `--user`
 switch.

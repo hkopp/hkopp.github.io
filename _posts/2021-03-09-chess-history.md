@@ -1,9 +1,8 @@
 ---
 layout: post
-category: Lesson
-tags : [chess, easy]
+category: Misc
+tags: [chess, easy]
 ---
-
 
 ## Introduction
 In this post, I want to give a short overview of the

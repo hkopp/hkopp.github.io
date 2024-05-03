@@ -1,7 +1,7 @@
 ---
 layout: post
-category : Recreational Math
-tags : [math, set theory]
+category: Recreational Math
+tags: [math, set theory]
 ---
 {% include math %}
 

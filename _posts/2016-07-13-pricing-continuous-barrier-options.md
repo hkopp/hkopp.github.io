@@ -1,7 +1,7 @@
 ---
 layout: post
-category: Lesson
-tags : [trading, derivative pricing, math, python]
+category: Quantitative Finance
+tags: [trading, derivative pricing, math, python]
 ---
 {% include math %}
 

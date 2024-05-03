@@ -1,7 +1,7 @@
 ---
 layout: post
-category: Messing around
-tags : [trading, python, zipline]
+category: Quantitative Finance
+tags: [trading, python, zipline]
 ---
 {% include math %}
 

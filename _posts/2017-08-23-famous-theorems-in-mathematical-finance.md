@@ -1,7 +1,7 @@
 ---
 layout: post
-category : Lesson
-tags : [derivative pricing, stochastic, math, theory]
+category: Quantitative Finance
+tags: [derivative pricing, stochastic, math, theory]
 ---
 {% include math %}
 

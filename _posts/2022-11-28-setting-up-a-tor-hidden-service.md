@@ -1,7 +1,7 @@
 ---
 layout: post
-category: Lesson
-tags : [programming, hacking]
+category: Computer Stuff
+tags: [programming, hacking]
 ---
 
 

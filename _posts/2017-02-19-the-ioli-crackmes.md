@@ -1,7 +1,7 @@
 ---
 layout: post
-category : Walkthrough
-tags : [hacking, ctf, spoiler, writeup, crackme]
+category: CTF Writeups
+tags: [hacking, ctf, spoiler, writeup, crackme]
 ---
 
 ## Introduction

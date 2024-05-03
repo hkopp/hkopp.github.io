@@ -1,7 +1,7 @@
 ---
 layout: post
-category : Lesson
-tags : [derivative pricing]
+category: Math
+tags: [derivative pricing]
 ---
 {% include math %}
 

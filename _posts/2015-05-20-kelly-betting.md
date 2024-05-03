@@ -1,7 +1,7 @@
 ---
 layout: post
-category : Recreational Math
-tags : [brainteaser, stochastic, trading, math]
+category: Recreational Math
+tags: [brainteaser, stochastic, trading, math]
 ---
 {% include math %}
 

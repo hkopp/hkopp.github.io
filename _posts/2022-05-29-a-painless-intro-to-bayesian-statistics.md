@@ -1,7 +1,7 @@
 ---
 layout: post
-category: Lesson
-tags : [math, philosophy, stochastic, programming, python]
+category: Math
+tags: [math, philosophy, stochastic, programming, python]
 ---
 
 {% include math %}

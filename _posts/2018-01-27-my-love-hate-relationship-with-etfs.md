@@ -1,7 +1,7 @@
 ---
 layout: post
-category: Lesson
-tags : [rant, trading]
+category: Quantitative Finance
+tags: [rant, trading]
 ---
 
 ### NOTE

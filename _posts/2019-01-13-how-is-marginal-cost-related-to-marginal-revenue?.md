@@ -1,7 +1,7 @@
 ---
 layout: post
-category: Lesson
-tags : [economics, theory, easy, rant]
+category: Quantitative Finance
+tags: [economics, theory, easy, rant]
 ---
 {% include math %}
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 category: Recreational Math
-tags : [math, programming, python, algebra]
+tags: [math, programming, python, algebra]
 ---
 
 {% include math %}

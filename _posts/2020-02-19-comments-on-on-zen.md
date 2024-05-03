@@ -1,7 +1,7 @@
 ---
 layout: post
 category: Philosophy
-tags : [mysticism, philosophy]
+tags: [mysticism, philosophy]
 ---
 
 # Introduction

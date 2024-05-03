@@ -1,7 +1,7 @@
 ---
 layout: post
-category : lesson
-tags : [hacking, programming, malwaredev]
+category: Malware
+tags: [hacking, programming, malwaredev]
 ---
 
 ## Introduction

@@ -1,8 +1,8 @@
 ---
 layout: post
-category : Recreational Math
+category: Recreational Math
 tagline: "a quiz with coins"
-tags : [brainteaser, easy, stochastic]
+tags: [brainteaser, easy, stochastic]
 ---
 {% include math %}
 

@@ -1,7 +1,7 @@
 ---
 layout: post
-category: Lesson
-tags : [math]
+category: Misc
+tags: [math]
 ---
 
 When i was a PhD student I got a lot in contact with bad scientific papers.

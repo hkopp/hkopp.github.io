@@ -1,7 +1,7 @@
 ---
 layout: post
-category : lesson
-tags : [hacking, programming]
+category: Computer Stuff
+tags: [hacking, programming]
 ---
 
 # Introduction

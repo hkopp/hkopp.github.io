@@ -1,7 +1,7 @@
 ---
 layout: post
-category: Computer Trick
-tags : [bash,programming]
+category: Computer Stuff
+tags: [bash,programming]
 ---
 
 ## Intro

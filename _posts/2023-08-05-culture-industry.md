@@ -1,7 +1,7 @@
 ---
 layout: post
-category : Lesson
-tags : [philosophy, rant]
+category: Philosophy
+tags: [philosophy, rant]
 ---
 
 # Introduction

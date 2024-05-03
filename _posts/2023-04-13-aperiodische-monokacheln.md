@@ -1,7 +1,7 @@
 ---
 layout: post
-category : Recreational Math
-tags : [theory, math, german, easy]
+category: Recreational Math
+tags: [theory, math, german, easy]
 ---
 
 ## Einführung

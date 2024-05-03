@@ -1,9 +1,8 @@
 ---
 layout: post
-category : Lesson
-tags : [theory, astro, ctf, programming]
+category: CTF Writeups
+tags: [theory, astro, ctf, programming]
 ---
-
 
 ## Introduction
 

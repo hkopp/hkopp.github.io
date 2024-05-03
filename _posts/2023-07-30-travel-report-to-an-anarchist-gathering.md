@@ -1,7 +1,7 @@
 ---
 layout: post
-category : Lesson
-tags : [travel report, philosophy]
+category: Misc
+tags: [travel report, philosophy]
 ---
 
 This is a travel report about my trip to St. Imiere to commemorate the

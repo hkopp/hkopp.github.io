@@ -1,7 +1,7 @@
 ---
 layout: post
-category : Writeup
-tags : [writeup, hacking, tu ctf, ctf, crypto]
+category: CTF Writeups
+tags: [writeup, hacking, tu ctf, ctf, crypto]
 ---
 {% include math %}
 

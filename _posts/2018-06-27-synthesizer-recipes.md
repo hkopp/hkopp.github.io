@@ -1,7 +1,7 @@
 ---
 layout: post
 category: Music
-tags : [music]
+tags: [music]
 ---
 
 ## Introduction
