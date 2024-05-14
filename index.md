@@ -1,28 +1,21 @@
 ---
 layout: page
-title: Hello World!
-tagline: no offense to the rest of the universe
+title: Koppian Adventures
+tagline: Math/Programming/Cybersecurity/Finance/...
 ---
 
-## Intro
-
-Hi all,  
+Hi,
 Welcome to my blog where I write mainly about math, programming,
 finance, and other stuff i find interesting.  
-Feel free to look around.
-
-### Social sites
-- [Twitter](https://twitter.com/bananabunny6) for various ponderings.
-- [Soundcloud](https://soundcloud.com/uftah/) if you are interested in my music.
-- [Bandcamp](https://uftah.bandcamp.com/) the same music on another platform.
-- [Instagram](https://www.instagram.com/uftah.music/) again mainly for music.
+You can find a list of blog posts ordered by category [here]({{ site.url }}/categories).
 
 If you want to get notifications on new posts you can use
-[RSS](http://hkopp.github.io/rss.xml) or [Atom
-RSS](http://hkopp.github.io/atom.xml).
+[RSS]({{ site.url }}/rss.xml) or [Atom
+RSS]({{ site.url }}/atom.xml).
 
 ## Posts
-My blog posts are as follows.
+In the following you can find a list of all blog posts that i have
+written.
 
 <ul class="posts">
   {% for post in site.posts %}
@@ -36,8 +29,8 @@ On the internet, most private websites have been eaten by commercialized
 communities. The internet I grew up with was a very different place. A
 place that was more free and not as gamified, not as ad-ridden, and
 not as commercialized as the current internet of fake news, lies, and
-propaganda. I hate reading gamified click-baity content.
-Consequently, here is a list of some of the remaining private sites.
+propaganda.
+Here is a list of some of the remaining private sites.
 If you own a private website that may fit into my area of interest, hit
 me up and I may add you.
 
@@ -53,3 +46,8 @@ me up and I may add you.
 - [c-turbines](http://www.c-turbines.ch) is the home of a crazy Swiss
   guy. Each time I visit his website I hope he has not killed himself
   yet.
+
+## Social sites
+- [Twitter](https://twitter.com/bananabunny6) for various ponderings.
+- [Soundcloud](https://soundcloud.com/uftah/) if you are interested in my music.
+- [Bandcamp](https://uftah.bandcamp.com/) the same music on another platform.
