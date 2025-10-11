@@ -1,21 +1,15 @@
 ---
 layout: page
-title: Koppian Adventures
+title: HKopp
 tagline: Math/Programming/Cybersecurity/Finance/...
 ---
-
-Hi,
-Welcome to my blog where I write mainly about math, programming,
-finance, and other stuff i find interesting.  
-You can find a list of blog posts ordered by category [here]({{ site.url }}/categories).
 
 If you want to get notifications on new posts you can use
 [RSS]({{ site.url }}/rss.xml) or [Atom
 RSS]({{ site.url }}/atom.xml).
 
 ## Posts
-In the following you can find a list of all blog posts that i have
-written.
+A list of all blog posts that i have written.
 
 <ul class="posts">
   {% for post in site.posts %}
@@ -48,6 +42,6 @@ me up and I may add you.
   yet.
 
 ## Social sites
-- [Twitter](https://twitter.com/bananabunny6) for various ponderings.
-- [Soundcloud](https://soundcloud.com/uftah/) if you are interested in my music.
-- [Bandcamp](https://uftah.bandcamp.com/) the same music on another platform.
+- [Twitter](https://twitter.com/bananabunny6)
+- [Soundcloud](https://soundcloud.com/uftah/)
+- [Bandcamp](https://uftah.bandcamp.com/)
