@@ -1,6 +1,6 @@
 ---
 layout: post
-category: Philosophy
+category: Book Review
 tagline: A Book Review
 tags: [science fiction, books]
 ---
