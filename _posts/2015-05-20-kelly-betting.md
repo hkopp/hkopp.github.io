@@ -79,8 +79,8 @@ $$
 \frac{pa}{1+fa}+\frac{(1-p)b}{(1+fb)} &= 0\\
 \Leftrightarrow pa+pafb+(1-p)b+(1-p)bfa &= 0\\
 \Leftrightarrow pa+(1-p)b+bfa &= 0\\
-\Leftrightarrow fab=-pa+(p-1)b &= 0\\
-\Leftrightarrow f=\frac{-pa+(p-1)b}{ab} &= 0
+\Leftrightarrow fab&=-pa+(p-1)b \\
+\Leftrightarrow f&=\frac{-pa+(p-1)b}{ab}
 \end{align*}
 $$
 
