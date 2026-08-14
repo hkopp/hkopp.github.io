@@ -20,14 +20,12 @@ A list of all blog posts that i have written.
 ## Other links
 
 On the internet, most private websites have been eaten by commercialized
-communities. The internet I grew up with was a very different place. A
-place that was more free and not as gamified, not as ad-ridden, and
-not as commercialized as the current internet of fake news, lies, and
-propaganda.
+communities. The internet I grew up with was a very different place.
 Here is a list of some of the remaining private sites.
 If you own a private website that may fit into my area of interest, hit
 me up and I may add you.
 
+- [Fraktalwelt](https://www.fraktalwelt.de/) is a website about fractals that i know since I am a teenager and that has probably contributed to me studying math.
 - [Mathematische Basteleien](http://mathematische-basteleien.de/)
   contains some mathematical curiosities. This site was one of the
   many inspirations for me to study math.
@@ -40,6 +38,7 @@ me up and I may add you.
 - [c-turbines](http://www.c-turbines.ch) is the home of a crazy Swiss
   guy. Each time I visit his website I hope he has not killed himself
   yet.
+
 
 ## Social sites
 - [Twitter](https://twitter.com/bananabunny6)
